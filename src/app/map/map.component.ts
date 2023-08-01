@@ -4,6 +4,7 @@ import { HK_Center } from '../util/constants';
 import data from '../../assets/data.json';
 import { Venue } from 'src/types';
 
+
 @Component({
   selector: 'app-map',
   templateUrl: './map.component.html',
@@ -59,9 +60,10 @@ export class MapComponent implements AfterViewInit {
   }
 
   setFilter(): void {
-    if (this.selectedArea) {
-      this.venues = data.filter(item => item.area === this.selectedArea!.name)
-    }
+    // if (this.selectedArea) {
+    //   this.venues = data.filter(item => item.area === this.selectedArea!.name)
+    // }
+    console.log(this.selectedArea)
   }
 
   ngAfterViewInit(): void {

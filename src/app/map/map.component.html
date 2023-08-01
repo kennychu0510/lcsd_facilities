@@ -1,15 +1,18 @@
 <div class="map-container">
   <div id="controller">
     <div>
-      <select [(ngModel)]="selectedArea">
-        <option *ngFor="let area of areas" [ngValue]="area">
-          {{ area.name }}
-        </option>
-      </select>
-      <button (click)="setFilter()">Filter</button>
+      <mat-form-field class="filter">
+        <mat-label>District</mat-label>
+        <mat-select  [(value)]="selectedArea">
+          <mat-option *ngFor="let area of areas" [value]="area">
+            {{area.name}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
     </div>
     <div>
-      <button (click)="resetZoom()">Reset</button>
+      <button mat-raised-button color="primary" (click)="setFilter()">Filter</button>
+      <button mat-raised-button color="warn" (click)="resetZoom()">Reset</button>
     </div>
   </div>
   <div class="map-frame">

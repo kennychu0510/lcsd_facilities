@@ -12,6 +12,12 @@
   align-items: center;
   padding: 0 20px;
   justify-content: space-between;
+
+  > div {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+  }
 }
 
 .map-frame {
@@ -21,4 +27,8 @@
 
 #map {
   height: 100%;
+}
+
+.filter {
+  width: 300px;
 }
