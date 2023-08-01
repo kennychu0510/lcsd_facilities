@@ -1,0 +1,2725 @@
+[
+  {
+    "name": "Tin Ping Sports Centre",
+    "facilities": ["Badminton Court (NT)", "Volleyball Court (NT)", "Activity Room (Small)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Fitness Equipment (NT)"],
+    "area": "New Territories East - North",
+    "address": "3/F., Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, N.T.",
+    "coordinates": { "lat": 22.503462, "lng": 114.133505 },
+    "type": "Arena"
+  },
+  {
+    "name": "Lung Sum Avenue Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - North",
+    "address": "155 Jockey Club Road, Sheung Shui, N.T.",
+    "coordinates": { "lat": 22.5050106, "lng": 114.1306305 },
+    "type": "Arena"
+  },
+  {
+    "name": "Wo Hing Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Indoor Tennis Court",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)",
+      "American Pool Table"
+    ],
+    "area": "New Territories East - North",
+    "address": "8 Wo Ming Lane, Fanling N.T.",
+    "coordinates": { "lat": 22.4846267, "lng": 114.1432188 },
+    "type": "Arena"
+  },
+  {
+    "name": "Po Wing Road Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "American Pool Table"
+    ],
+    "area": "New Territories East - North",
+    "address": "19 Pak Wo Road, Sheung Shui, N.T.",
+    "coordinates": { "lat": 22.4969678, "lng": 114.1283986 },
+    "type": "Arena"
+  },
+  {
+    "name": "Po Lam Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Sai Kung",
+    "address": "Po Lam Estate, Tseung Kwan O, N.T.",
+    "coordinates": { "lat": 22.3258447, "lng": 114.2552202 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tsui Lam Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Sai Kung",
+    "address": "Tsui Lam Estate, Tseung Kwan O , N.T.",
+    "coordinates": { "lat": 22.32217, "lng": 114.249562 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tseung Kwan O Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Sai Kung",
+    "address": "9 Wan Lung Road, Tseung Kwan O, N.T.",
+    "coordinates": { "lat": 22.3173771, "lng": 114.259532 },
+    "type": "Arena"
+  },
+  {
+    "name": "Hang Hau Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories East - Sai Kung",
+    "address": "1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O, N.T.",
+    "coordinates": { "lat": 22.317334, "lng": 114.2684967 },
+    "type": "Arena"
+  },
+  {
+    "name": "Hong Kong Velodrome",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Cycling Track (Share Use)",
+      "Cycling Track (10-day Advance)"
+    ],
+    "area": "New Territories East - Sai Kung",
+    "address": "105 - 107 Po Hong Road, Tseung Kwan O",
+    "coordinates": { "lat": 22.3130803, "lng": 114.2624866 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tiu Keng Leng Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories East - Sai Kung",
+    "address": "2 Chui Ling Road, Tseung Kwan O, N.T.",
+    "coordinates": { "lat": 22.3062803, "lng": 114.2551107 },
+    "type": "Arena"
+  },
+  {
+    "name": "Heng On Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "4/F., Heng On Commercial Centre, Heng On Estate, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.4169308, "lng": 114.2278623 },
+    "type": "Arena"
+  },
+  {
+    "name": "Hin Keng Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "Table Tennis Table (Without A/C)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "Hin Keng Commercial Centre, Hin Keng Estate, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.3632747, "lng": 114.1712671 },
+    "type": "Arena"
+  },
+  {
+    "name": "Mei Lam Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "Phase 3, Mei Lam Estate, Tai Wai, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.379063, "lng": 114.175576 },
+    "type": "Arena"
+  },
+  {
+    "name": "Yuen Wo Road Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)",
+      "Netball Court (NT)"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "No.8 Yuen Wo Road, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.3829822, "lng": 114.19254 },
+    "type": "Arena"
+  },
+  {
+    "name": "Ma On Shan Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "14 On Chun Street , Ma On Shan",
+    "coordinates": { "lat": 22.4260158, "lng": 114.2295379 },
+    "type": "Arena"
+  },
+  {
+    "name": "Yuen Chau Kok Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Indoor Bowling Green"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "35 Ngan Shing Street, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.3797375, "lng": 114.2044914 },
+    "type": "Arena"
+  },
+  {
+    "name": "Che Kung Temple Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories East - Sha Tin",
+    "address": "No.10 Sha Tin Tau Road, Sha Tin, New Territories.",
+    "coordinates": { "lat": 22.3722733, "lng": 114.1859688 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tai Po Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Tai Po",
+    "address": "13 Ting Tai Road, Tai Po, N.T.",
+    "coordinates": { "lat": 22.4554245, "lng": 114.1649695 },
+    "type": "Arena"
+  },
+  {
+    "name": "Fu Shin Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories East - Tai Po",
+    "address": "6/F, Multi-Car Park, Fu Shin Estate, Tai Po, N.T.",
+    "coordinates": { "lat": 22.4537353, "lng": 114.1745072 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tai Wo Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories East - Tai Po",
+    "address": "Podium Level, Tai Wo Shopping Centre, Tai Po, N.T.",
+    "coordinates": { "lat": 22.4508804, "lng": 114.1603555 },
+    "type": "Arena"
+  },
+  {
+    "name": "Fu Heng Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)",
+      "Korfball Court",
+      "Tchoukball Court",
+      "Gateball Court",
+      "Dodgebee Court",
+      "Pickleball Court",
+      "Dodgeball Court",
+      "Kin-ball Court"
+    ],
+    "area": "New Territories East - Tai Po",
+    "address": "1/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po, N.T.",
+    "coordinates": { "lat": 22.4582208, "lng": 114.1711656 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tai Po Hui Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories East - Tai Po",
+    "address": "6/F, Tai Po Complex, No.8 Heung Sze Wui Street, Tai Po,N.T.",
+    "coordinates": { "lat": 22.4463606, "lng": 114.1662006 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tung Cheong Street Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Indoor Bowling Green"
+    ],
+    "area": "New Territories East - Tai Po",
+    "address": "3/F., Tai Po Tung Cheong Street Leisure Building, Tung Cheong Street, Tai Po, New Territories",
+    "coordinates": { "lat": 22.4487864, "lng": 114.1698937 },
+    "type": "Arena"
+  },
+  {
+    "name": "Praya Street Sports Centre",
+    "facilities": ["Badminton Court (NT)", "Activity Room (Small)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Squash Court (NT)"],
+    "area": "New Territories West - Islands",
+    "address": "1/F., Cheung Chau Municipal Building, 2 Tai Hing Tai Road, Cheung Chau.",
+    "coordinates": { "lat": 22.2067222, "lng": 114.0284271 },
+    "type": "Arena"
+  },
+  {
+    "name": "Peng Chau Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Islands",
+    "address": "Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau",
+    "coordinates": { "lat": 22.2848051, "lng": 114.0379075 },
+    "type": "Arena"
+  },
+  {
+    "name": "Cheung Chau Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Islands",
+    "address": "3 Cheung Chau Hospital Road, Cheung Chau",
+    "coordinates": { "lat": 22.2075465, "lng": 114.0311221 },
+    "type": "Arena"
+  },
+  {
+    "name": "Mui Wo Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Islands",
+    "address": "1/F., Mui Wo Municipal Services Building, 9 Ngan Shek Street, Mui Wo, Lantau Island",
+    "coordinates": { "lat": 22.2671053, "lng": 113.9964141 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tung Chung Man Tung Road Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Islands",
+    "address": "G/F to 2/F Tung Chung Municipal Services Bldg., 39 Man Tung Road, Tung Chung, N.T.",
+    "coordinates": { "lat": 22.2905532, "lng": 113.9437026 },
+    "type": "Arena"
+  },
+  {
+    "name": "Osman Ramju Sadick Memorial Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "176 Hing Fong Road, Kwai Chung, N.T.",
+    "coordinates": { "lat": 22.3612618, "lng": 114.1294319 },
+    "type": "Arena"
+  },
+  {
+    "name": "North Kwai Chung Tang Shiu Kin Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Indoor Tennis Court",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "292 Wo Yi Hop Road, Kwai Chung, N.T.",
+    "coordinates": { "lat": 22.3738889, "lng": 114.1375 },
+    "type": "Arena"
+  },
+  {
+    "name": "Cheung Fat Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)",
+      "Korfball Court",
+      "Tchoukball Court",
+      "Gateball Court",
+      "Dodgebee Court",
+      "Pickleball Court",
+      "Dodgeball Court",
+      "Kin-ball Court"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "4/F., Cheung Fat Shopping Centre, Cheung Fat Estate, Tsing Yi, N.T.",
+    "coordinates": { "lat": 22.3622695, "lng": 114.1028113 },
+    "type": "Arena"
+  },
+  {
+    "name": "Fung Shue Wo Sports Centre",
+    "facilities": ["Badminton Court (NT)", "Basketball Court (NT)", "Volleyball Court (NT)", "Activity Room (Small)(NT)", "Fitness Equipment (NT)"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "10 Fung Shue Wo Road,Phase II, Tsing Yi Estate, Tsing Yi, N.T",
+    "coordinates": { "lat": 22.355435, "lng": 114.102637 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tai Wo Hau Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "39 Tai Ha Street, Tai Wo Hau Estate, Kwai Chung, N.T.",
+    "coordinates": { "lat": 22.3701308, "lng": 114.1249597 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tsing Yi Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "2/F., Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi, N.T.",
+    "coordinates": { "lat": 22.3539944, "lng": 114.106497 },
+    "type": "Arena"
+  },
+  {
+    "name": "Lai King Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "60 Lai Cho Road, Lai King, Kwai Chung, N.T.",
+    "coordinates": { "lat": 22.3497466, "lng": 114.127689 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tsing Yi Southwest Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Dance Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "70 Chung Mei Road, Tsing Yi, N.T.",
+    "coordinates": { "lat": 22.3512219, "lng": 114.1020731 },
+    "type": "Arena"
+  },
+  {
+    "name": "JC Tuen Mun Butterfly Beach Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tuen Mun",
+    "address": "11 Wu Shan Road, Tuen Mun, N.T.",
+    "coordinates": { "lat": 22.3786171, "lng": 113.9646602 },
+    "type": "Arena"
+  },
+  {
+    "name": "Yau Oi Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tuen Mun",
+    "address": "3 Hing On Lane, Tuen Mun,  N.T.",
+    "coordinates": { "lat": 22.3853416, "lng": 113.9717682 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tai Hing Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)",
+      "Netball Court (NT)"
+    ],
+    "area": "New Territories West - Tuen Mun",
+    "address": "38 Tsing Chung Koon Road, Tuen Mun, N.T.",
+    "coordinates": { "lat": 22.4032655, "lng": 113.9732551 },
+    "type": "Arena"
+  },
+  {
+    "name": "Leung Tin Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tuen Mun",
+    "address": "4/F., CarPark Building, Tin King Estate, Tuen Mun, N.T.",
+    "coordinates": { "lat": 22.4066238, "lng": 113.9651642 },
+    "type": "Arena"
+  },
+  {
+    "name": "Siu Lun Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Tuen Mun",
+    "address": "2/F-5/F, 19 Siu Lun Street, Tuen Mun Siu Lun Government Complex, Tuen Mun",
+    "coordinates": { "lat": 22.3850451, "lng": 113.9784154 },
+    "type": "Arena (5/F)"
+  },
+  {
+    "name": "Wai Tsuen Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "6 Miu Kong Street, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3721304, "lng": 114.1222438 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tsuen King Circuit Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "38 Mei Wan Street, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3776065, "lng": 114.1113547 },
+    "type": "Arena"
+  },
+  {
+    "name": "Yeung Uk Road Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "4/F Yeung Uk Road Complex, 45 Yeung Uk Road, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3692096, "lng": 114.1142472 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tsuen Wan West Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "68 Hoi On Road, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3705029, "lng": 114.1005636 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tsuen Wan Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Dance Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "53 Wing Shun Street, Tsuen Wan",
+    "coordinates": { "lat": 22.3660761, "lng": 114.1121836 },
+    "type": "Arena (2/F)"
+  },
+  {
+    "name": "Fung Kam Street Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "20 Fung Yau North Street, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4430556, "lng": 114.0330556 },
+    "type": "Arena"
+  },
+  {
+    "name": "Long Ping Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "Table Tennis Table (Without A/C)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)",
+      "Korfball Court",
+      "Tchoukball Court",
+      "Gateball Court",
+      "Dodgebee Court",
+      "Pickleball Court",
+      "Dodgeball Court",
+      "Kin-ball Court"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "Unit 202, 2/F., Long Ping Commercial Centre, Long Ping Estate, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4502277, "lng": 114.0234298 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tin Shui Wai Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)",
+      "Squash Court (NT)"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "No.1, Tin Pak Road, Tin Shui Wai, N.T.",
+    "coordinates": { "lat": 22.454992, "lng": 114.0065046 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tin Shui Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "No 7, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4547049, "lng": 113.9979449 },
+    "type": "Arena"
+  },
+  {
+    "name": "Ping Shan Tin Shui Wai Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Small)(NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "No.1, Tsui Sing Road, Tin Shui Wai, Yuen Long",
+    "coordinates": { "lat": 22.4473228, "lng": 114.0048672 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tin Fai Road Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "63 Tin Shui Road, Tin Shui Wai, N.T.",
+    "coordinates": { "lat": 22.4648704, "lng": 113.9967804 },
+    "type": "Arena"
+  },
+  {
+    "name": "Yuen Long Sports Centre",
+    "facilities": [
+      "Badminton Court (NT)",
+      "Basketball Court (NT)",
+      "Volleyball Court (NT)",
+      "Activity Room (Large)(NT)",
+      "Table Tennis Table (NT)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (NT)"
+    ],
+    "area": "New Territories West - Yuen Long",
+    "address": "3/F, Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long",
+    "coordinates": { "lat": 22.4411233, "lng": 114.0238488 },
+    "type": "Arena"
+  },
+  {
+    "name": "Fat Kwong Street Sports Centre",
+    "facilities": [
+      "Badminton Court (Urban)",
+      "Basketball Court (Urban)",
+      "Volleyball Court (Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kowloon City",
+    "address": "9/F, 18 Shepherd Road, Ho Man Tin, Kowloon",
+    "coordinates": { "lat": 22.3147697, "lng": 114.181163 },
+    "type": "Arena"
+  },
+  {
+    "name": "Hong Kong Park Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Central & Western",
+    "address": "29 Cotton Tree Drive, Queensway, Hong Kong",
+    "coordinates": { "lat": 22.2772634, "lng": 114.159326 },
+    "type": "Arena"
+  },
+  {
+    "name": "Smithfield Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "American Pool Table"
+    ],
+    "area": "Hong Kong - Central & Western",
+    "address": "4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town",
+    "coordinates": { "lat": 22.2816862, "lng": 114.1286074 },
+    "type": "Arena"
+  },
+  {
+    "name": "Shek Tong Tsui Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Central & Western",
+    "address": "5/F, Shek Tong Tsui Municipal Services Building, 470 Queen's Road West",
+    "coordinates": { "lat": 22.2855473, "lng": 114.136225 },
+    "type": "Arena"
+  },
+  {
+    "name": "Sheung Wan Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Central & Western",
+    "address": "11/F, Sheung Wan Municipal Services Building, 345 Queen's Road Central",
+    "coordinates": { "lat": 22.2861687, "lng": 114.1497644 },
+    "type": "Arena"
+  },
+  {
+    "name": "Sun Yat Sen Memorial Park Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Central & Western",
+    "address": "18 Eastern Street North, Sai Ying Pun",
+    "coordinates": { "lat": 22.2900426, "lng": 114.1435092 },
+    "type": "Arena"
+  },
+  {
+    "name": "Chai Wan Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Eastern",
+    "address": "6, Yee Shun Street, Chai Wan, Hong Kong",
+    "coordinates": { "lat": 22.2649066, "lng": 114.2398392 },
+    "type": "Arena (Centre 1)"
+  },
+  {
+    "name": "Java Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)",
+      "American Pool Table"
+    ],
+    "area": "Hong Kong - Eastern",
+    "address": "No.99, Java Road, 3/F, Java Road Municipal Services Building, North Point.",
+    "coordinates": { "lat": 22.2923352, "lng": 114.1993332 },
+    "type": "Arena"
+  },
+  {
+    "name": "Quarry Bay Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Eastern",
+    "address": "6-7/F, 38 Quarry Bay Street, Quarry Bay, Hong Kong",
+    "coordinates": { "lat": 22.2837167, "lng": 114.2117902 },
+    "type": "Arena"
+  },
+  {
+    "name": "Island East Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Golf Driving Bay",
+      "Indoor Bowling Green",
+      "Indoor Climbing Wall (Per Lane)"
+    ],
+    "area": "Hong Kong - Eastern",
+    "address": "52, Lei King Road, Sai Wan Ho, Hong Kong",
+    "coordinates": { "lat": 22.2846902, "lng": 114.2222682 },
+    "type": "Arena"
+  },
+  {
+    "name": "Sai Wan Ho Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Eastern",
+    "address": "111 Shaukeiwan Road, Sai Wan Ho, Hong Kong",
+    "coordinates": { "lat": 22.282238, "lng": 114.2227325 },
+    "type": "Arena"
+  },
+  {
+    "name": "Siu Sai Wan Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine"
+    ],
+    "area": "Hong Kong - Eastern",
+    "address": "2/F., Siu Sai Wan Complex, 15 Siu Sai Wan Road, Siu Sai Wan, Hong Kong.",
+    "coordinates": { "lat": 22.2633683, "lng": 114.249499 },
+    "type": "Arena"
+  },
+  {
+    "name": "Ap Lei Chau Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "American Pool Table",
+      "Indoor Bowling Green",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Southern",
+    "address": "1/F to 4/F, Ap Lei Chau Municipal Services Building, No. 8 Hung Shing Street, Ap Lei Chau, HK",
+    "coordinates": { "lat": 22.2445, "lng": 114.1554216 },
+    "type": "Arena"
+  },
+  {
+    "name": "Wong Chuk Hang Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Southern",
+    "address": "168 Wong Chuk Hang Road, Aberdeen, HK",
+    "coordinates": { "lat": 22.2496422, "lng": 114.1733544 },
+    "type": "Arena"
+  },
+  {
+    "name": "Aberdeen Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Southern",
+    "address": "6/F Aberdeen Municipal Services Building, 203 Aberdeen Main Road, HK",
+    "coordinates": { "lat": 22.2491927, "lng": 114.1544143 },
+    "type": "Arena"
+  },
+  {
+    "name": "Yue Kwong Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine"
+    ],
+    "area": "Hong Kong - Southern",
+    "address": "43 Yue Kwong Road, Aberdeen, HK",
+    "coordinates": { "lat": 22.2504444, "lng": 114.1569344 },
+    "type": "Arena"
+  },
+  {
+    "name": "Stanley Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Korfball Court",
+      "Tchoukball Court",
+      "Gateball Court",
+      "Dodgebee Court",
+      "Pickleball Court",
+      "Dodgeball Court",
+      "Kin-ball Court"
+    ],
+    "area": "Hong Kong - Southern",
+    "address": "6 Stanley Market Road, U/G",
+    "coordinates": { "lat": 22.219071, "lng": 114.2118668 },
+    "type": "Arena"
+  },
+  {
+    "name": "Harbour Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Wan Chai",
+    "address": "27 Harbour Road, HK",
+    "coordinates": { "lat": 22.2817014, "lng": 114.1765405 },
+    "type": "Arena"
+  },
+  {
+    "name": "Lockhart Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Wan Chai",
+    "address": "10/F, Lockhart Road Municipal Services Building, 225 Hennessy Road, Wan Chai, HK",
+    "coordinates": { "lat": 22.2781067, "lng": 114.175274 },
+    "type": "Arena"
+  },
+  {
+    "name": "Queen Elizabeth Stadium",
+    "facilities": ["Badminton Court (A/C)(Urban)", "Table Tennis Table (A/C)(Urban)", "T.T. Table & Serving Machine", "Squash Court (A/C)(Urban)"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "18, Oi Kwan Road, Wan Chai, HK",
+    "coordinates": { "lat": 22.2751775, "lng": 114.1789709 },
+    "type": "Multi-purpose Hall"
+  },
+  {
+    "name": "Wong Nai Chung Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Hong Kong - Wan Chai",
+    "address": "4/F, Wong Nai Chung Compex , 2 Yuk Sau Street, Happy Valley, HK",
+    "coordinates": { "lat": 22.2689269, "lng": 114.1857353 },
+    "type": "Arena"
+  },
+  {
+    "name": "Hung Hom Municipal Services Building Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kowloon City",
+    "address": "3-5/F,Hung Hom Municipal Services Building,11 Ma Tau Wai Road, Kowloon",
+    "coordinates": { "lat": 22.3074403, "lng": 114.1872381 },
+    "type": "Arena"
+  },
+  {
+    "name": "Kowloon City Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kowloon City",
+    "address": "3/F, Kowloon City Municipal Services Building, 100 Nga Tsin Wai Rd, Kowloon City, Kowloon",
+    "coordinates": { "lat": 22.3296108, "lng": 114.1890487 },
+    "type": "Arena"
+  },
+  {
+    "name": "To Kwa Wan Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kowloon City",
+    "address": "66 Ha Heung Road, To Kwa Wan, Kowloon",
+    "coordinates": { "lat": 22.3188874, "lng": 114.1902877 },
+    "type": "Arena"
+  },
+  {
+    "name": "Chun Wah Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "Top Floor, Lok Nga Court Carpark, No.50 Chun Wah Rd.,Ngau Tau Kok, Kowloon",
+    "coordinates": { "lat": 22.322564, "lng": 114.220514 },
+    "type": "Arena"
+  },
+  {
+    "name": "Hiu Kwong Street Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "2 Hiu Kwong Street, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3196477, "lng": 114.2278189 },
+    "type": "Arena"
+  },
+  {
+    "name": "Kowloon Bay Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "15 Kai Lok Street, Kowloon Bay, Kowloon",
+    "coordinates": { "lat": 22.3268768, "lng": 114.211465 },
+    "type": "Arena"
+  },
+  {
+    "name": "Lam Tin South Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "170 Pik Wan Road, Lam Tin, Kowloon",
+    "coordinates": { "lat": 22.3038534, "lng": 114.2388532 },
+    "type": "Arena"
+  },
+  {
+    "name": "Ngau Tau Kok Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "3/F-4/F, Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Kowloon",
+    "coordinates": { "lat": 22.321434, "lng": 114.2162781 },
+    "type": "Arena"
+  },
+  {
+    "name": "Lei Yue Mun Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "American Pool Table",
+      "Sport Climbing Facilities (Small)",
+      "Korfball Court",
+      "Tchoukball Court",
+      "Gateball Court",
+      "Dodgebee Court",
+      "Pickleball Court",
+      "Dodgeball Court",
+      "Kin-ball Court"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "2/F-5/F, Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Yau Tong, Kowloon",
+    "coordinates": { "lat": 22.2921844, "lng": 114.238738 },
+    "type": "Arena"
+  },
+  {
+    "name": "Shun Lee Tsuen Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Min. Soccer Pitch - Art. Turf",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Tennis Court (Urban)",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "Golf Driving Bay",
+      "American Pool Table",
+      "Netball Court (A/C)(Urban)",
+      "Billiard Table"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "No. 33, Shun Lee Tsuen Road, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3300107, "lng": 114.2252878 },
+    "type": "Arena"
+  },
+  {
+    "name": "Shui Wo Street Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "8/F-9/F, Shui Wo Street Municipal Services Building, 9 Shui Wo Street, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3154451, "lng": 114.2243285 },
+    "type": "Arena"
+  },
+  {
+    "name": "Choi Wing Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)"
+    ],
+    "area": "Kowloon - Kwun Tong",
+    "address": "58 Choi Wing Road, Kwun Tong",
+    "coordinates": { "lat": 22.3297346, "lng": 114.2164719 },
+    "type": "Arena"
+  },
+  {
+    "name": "Cheung Sha Wan Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Korfball Court",
+      "Tchoukball Court",
+      "Gateball Court",
+      "Dodgebee Court",
+      "Pickleball Court",
+      "Dodgeball Court",
+      "Kin-ball Court"
+    ],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "Hing Wah Street, Cheung Sha Wan Road, Kowloon",
+    "coordinates": { "lat": 22.3379973, "lng": 114.1534396 },
+    "type": "Arena"
+  },
+  {
+    "name": "Lai Chi Kok Park Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "No. 1 Lai Wan Road, Kowloon",
+    "coordinates": { "lat": 22.3404857, "lng": 114.1383778 },
+    "type": "Arena"
+  },
+  {
+    "name": "Pei Ho Street Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "5-U6/F Pei Ho Street Complex 333 Ki Lung Street, Sham Shui Po",
+    "coordinates": { "lat": 22.3293401, "lng": 114.1610877 },
+    "type": "Arena"
+  },
+  {
+    "name": "Po On Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "1/F, 2/F, Po On Road Complex, 325-329 Po On Road, Sham Shui Po, Kowloon",
+    "coordinates": { "lat": 22.3383672, "lng": 114.1580477 },
+    "type": "Arena"
+  },
+  {
+    "name": "Shek Kip Mei Park Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "290 Nam Cheong Street, Shek Kip Mei, Sham Shui Po, Kowloon",
+    "coordinates": { "lat": 22.3372157, "lng": 114.1696076 },
+    "type": "Arena"
+  },
+  {
+    "name": "Sham Shui Po Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)"
+    ],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "2/F., Sham Shui Po Leisure and Cultural Building, 38 Sham Mong Road, Sham Shui Po, Kowloon",
+    "coordinates": { "lat": 22.3302631, "lng": 114.1489943 },
+    "type": "Arena"
+  },
+  {
+    "name": "Choi Hung Road Badminton Centre",
+    "facilities": ["Badminton Court (A/C)(Urban)", "Tennis Court (Urban)"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "150 Choi Hung Road, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3375864, "lng": 114.1969836 },
+    "type": "Arena"
+  },
+  {
+    "name": "Choi Hung Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "150 Choi Hung Road, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3375864, "lng": 114.1969836 },
+    "type": "Arena"
+  },
+  {
+    "name": "Chuk Yuen Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "Chuk Yuen Road, Chuk Yuen North Estate, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3455273, "lng": 114.1935253 },
+    "type": "Arena"
+  },
+  {
+    "name": "Kai Tak East Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "Squash Court (A/C)(Urban)",
+      "Sport Climbing Facilities (Small)"
+    ],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "30 Luk Hop Street, San Po Kong, Kowloon",
+    "coordinates": { "lat": 22.3359531, "lng": 114.2005562 },
+    "type": "Arena"
+  },
+  {
+    "name": "Morse Park Sports Centre",
+    "facilities": ["Badminton Court (A/C)(Urban)", "Basketball Court (A/C)(Urban)", "Volleyball Court (A/C)(Urban)", "Table Tennis Table (A/C)(Urban)", "T.T. Table & Serving Machine"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3383232, "lng": 114.1900554 },
+    "type": "Arena"
+  },
+  {
+    "name": "Ngau Chi Wan Sports Centre",
+    "facilities": ["Badminton Court (A/C)(Urban)", "Basketball Court (A/C)(Urban)", "Volleyball Court (A/C)(Urban)", "Table Tennis Table (A/C)(Urban)", "T.T. Table & Serving Machine"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "1/F, Nagu Chi Wan Market, 11 Clear Water Bay Road, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3345536, "lng": 114.2096462 },
+    "type": "Arena"
+  },
+  {
+    "name": "Po Kong Village Road Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "120 Po Kong Village Road, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3455162, "lng": 114.2015991 },
+    "type": "Arena"
+  },
+  {
+    "name": "Boundary Street Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "200 Sai Yee Street, Mong Kok, Kowloon",
+    "coordinates": { "lat": 22.3256269, "lng": 114.1708938 },
+    "type": "Arena (Centre 1)"
+  },
+  {
+    "name": "Fa Yuen Street Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "10-13/F Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mongkok",
+    "coordinates": { "lat": 22.3207625, "lng": 114.1705626 },
+    "type": "Arena (13/F)"
+  },
+  {
+    "name": "Kwun Chung Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "5-6/F, Kwun Chung Municipal Services Building, 17 Bowring Street, Jordan, Kowloon",
+    "coordinates": { "lat": 22.3045837, "lng": 114.1682786 },
+    "type": "Arena"
+  },
+  {
+    "name": "Kowloon Park Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Dance Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "22 Austin Road, Tsim Sha Tsui, Kowloon",
+    "coordinates": { "lat": 22.3017243, "lng": 114.1695386 },
+    "type": "Arena"
+  },
+  {
+    "name": "Tai Kok Tsui Sports Centre",
+    "facilities": [
+      "Badminton Court (A/C)(Urban)",
+      "Basketball Court (A/C)(Urban)",
+      "Volleyball Court (A/C)(Urban)",
+      "Activity Room (Large)(A/C)(Urban)",
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Fitness Equipment (HK & Kowloon)",
+      "Sport Climbing Facilities (Small)",
+      "Netball Court (A/C)(Urban)"
+    ],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "5-7/F., Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui, Kowloon",
+    "coordinates": { "lat": 22.3218861, "lng": 114.1627996 },
+    "type": "Arena"
+  },
+  {
+    "name": "Aberdeen Sports Ground",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "Hong Kong - Southern",
+    "address": "108 Wong Chuk Hang Road, Aberdeen, HK",
+    "coordinates": { "lat": 22.2500953, "lng": 114.171524 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Wong Chuk Hang Recreation Ground",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "Hong Kong - Southern",
+    "address": "No. 108 Wong Chuk Hang Road , Aberdeen.",
+    "coordinates": { "lat": 22.250145, "lng": 114.170014 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Happy Valley Recreation Ground",
+    "facilities": ["Soccer Pitch - Art. Turf", "Min. Soccer Pitch - Art. Turf", "Soccer Pitch - Grass", "Min. Soccer Pitch - Grass", "Rugby Pitch - Artifical Turf", "Hockey - Art Turf"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "2 Sports Road, Happy Valley",
+    "coordinates": { "lat": 22.2716989, "lng": 114.1830768 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Kowloon Tsai Park Grass Pitch",
+    "facilities": ["Soccer Pitch - Art. Turf", "Soccer Pitch - Grass", "Rugby Pitch - Artifical Turf"],
+    "area": "Kowloon - Kowloon City",
+    "address": "13 Inverness Road , Kowloon City, Kowloon",
+    "coordinates": { "lat": 22.3321858, "lng": 114.1840189 },
+    "type": "Aritificial Grass Pitch"
+  },
+  {
+    "name": "Kowloon Bay Park",
+    "facilities": ["Soccer Pitch - Art. Turf", "Min. Soccer Pitch - Art. Turf"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "Kai Lai Road, Kowloon Bay, Kowloon",
+    "coordinates": { "lat": 22.3268397, "lng": 114.2071074 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Shek Kip Mei Park",
+    "facilities": ["Soccer Pitch - Art. Turf", "Tennis Court (Urban)"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "270 Nam Cheong Street, Shek Kip Mei, Shamshuipo, Kowloon",
+    "coordinates": { "lat": 22.3385762, "lng": 114.1707594 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Lok Fu Recreation Ground",
+    "facilities": ["Soccer Pitch - Art. Turf", "Hockey - Art Turf"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "1 Heng Lam Street, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3367663, "lng": 114.1885969 },
+    "type": "Art - So cum Hoc"
+  },
+  {
+    "name": "Morse Park No. 3",
+    "facilities": ["Soccer Pitch - Art. Turf", "Min. Soccer Pitch - Art. Turf"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3383232, "lng": 114.1900554 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Po Kong Village Road Park",
+    "facilities": ["Soccer Pitch - Art. Turf", "Cricket Practice Net"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "Po Kong Village Road, Diamond Hill, Kowloon",
+    "coordinates": { "lat": 22.3436042, "lng": 114.2046382 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Boundary Street Recreation Ground",
+    "facilities": ["Soccer Pitch - Art. Turf", "Hockey - Art Turf"],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "No. 200, Sai Yee Street, Mong Kok,  Kowloon",
+    "coordinates": { "lat": 22.325862, "lng": 114.1711721 },
+    "type": "Art - So cum Hoc"
+  },
+  {
+    "name": "Po Tsui Park",
+    "facilities": ["Soccer Pitch - Art. Turf", "Tennis Court (NT)", "Hockey - Art Turf"],
+    "area": "New Territories East - Sai Kung",
+    "address": "Yuk Ngai Lane, Tseung Kwan O",
+    "coordinates": { "lat": 22.3246238, "lng": 114.253117 },
+    "type": "Art - So cum Hoc"
+  },
+  {
+    "name": "Tsang Tai Uk Recreation Ground",
+    "facilities": ["Soccer Pitch - Art. Turf", "Tennis Court (NT)"],
+    "area": "New Territories East - Sha Tin",
+    "address": "Sha Kok Street, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.375621, "lng": 114.18888 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Ma On Shan Recreation Ground",
+    "facilities": ["Soccer Pitch - Art. Turf", "Tennis Court (NT)"],
+    "area": "New Territories East - Sha Tin",
+    "address": "No.1 Hang Hong Street, Ma On Shan",
+    "coordinates": { "lat": 22.419228, "lng": 114.2280009 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Kwong Fuk Football Ground",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "New Territories East - Tai Po",
+    "address": "Kwong Fuk Road, Tai Po",
+    "coordinates": { "lat": 22.4455469, "lng": 114.1729246 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Kwong Fuk Park",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "New Territories East - Tai Po",
+    "address": "Kwong Chun Street, Tai Po, NT",
+    "coordinates": { "lat": 22.4455154, "lng": 114.1739024 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Tsing Yi Northeast Park",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "10 Tam Kon Shan Road, Tsing Yi",
+    "coordinates": { "lat": 22.3625166, "lng": 114.0990749 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Wu Shan Recreation Playground",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "Wu Shan Road, Tuen Mun",
+    "coordinates": { "lat": 22.3799674, "lng": 113.9659013 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Tin Yip Road Park",
+    "facilities": ["Soccer Pitch - Art. Turf"],
+    "area": "New Territories West - Yuen Long",
+    "address": "Tin Yip Road, Tin Shui Wai, N.T.",
+    "coordinates": { "lat": 22.4636413, "lng": 114.0066974 },
+    "type": "Art Turf - Ass"
+  },
+  {
+    "name": "Sun Yat Sen Memorial Park",
+    "facilities": ["Min. Soccer Pitch - Art. Turf"],
+    "area": "Hong Kong - Central & Western",
+    "address": "Eastern Street North, Sai Ying Pun, Hong Kong",
+    "coordinates": { "lat": 22.2902364, "lng": 114.1454925 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Quarry Bay Park",
+    "facilities": ["Min. Soccer Pitch - Art. Turf", "Tennis Court (Urban)"],
+    "area": "Hong Kong - Eastern",
+    "address": "Tai Koo Shing, Quarry Bay, Hong Kong",
+    "coordinates": { "lat": 22.288426, "lng": 114.215451 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Kwun Tong Recreation Ground",
+    "facilities": ["Min. Soccer Pitch - Art. Turf"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "No.6 Tsui Ping Road, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3115403, "lng": 114.2302478 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "On Sau Road Park",
+    "facilities": ["Min. Soccer Pitch - Art. Turf"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "On Sau Road Park",
+    "coordinates": { "lat": 22.3228485, "lng": 114.2324582 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Hing Wah Street West Playground",
+    "facilities": ["Min. Soccer Pitch - Art. Turf"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "5 Hing Wah Street West, Sham Shui Po, Kln.",
+    "coordinates": { "lat": 22.333298, "lng": 114.1503857 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Cherry Street Park",
+    "facilities": ["Min. Soccer Pitch - Art. Turf", "Tennis Court (Urban)"],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "9 Hoi Ting Road, Mong Kok West, Kowloon",
+    "coordinates": { "lat": 22.3156295, "lng": 114.1662281 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Pak Fuk Tin Sum Playground",
+    "facilities": ["Min. Soccer Pitch - Art. Turf"],
+    "area": "New Territories East - North",
+    "address": "Area 42, Yat Ming Road, Fanling, N.T.",
+    "coordinates": { "lat": 22.488295, "lng": 114.140853 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Man Tung Road Park",
+    "facilities": ["Min. Soccer Pitch - Art. Turf"],
+    "area": "New Territories West - Islands",
+    "address": "Man Tung Road, Tung Chung",
+    "coordinates": { "lat": 22.2919189, "lng": 113.9409432 },
+    "type": "Art Turf - Min"
+  },
+  {
+    "name": "Homantin East Service Reservoir Playground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "Kowloon - Kowloon City",
+    "address": "Fat Kwong Street, Homantin, Kowloon",
+    "coordinates": { "lat": 22.3130603, "lng": 114.1832735 },
+    "type": "Nat Turf - So cum Ru"
+  },
+  {
+    "name": "Kowloon Tsai Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "Kowloon - Kowloon City",
+    "address": "13 Inverness Road, Kowloon City, Kowloon",
+    "coordinates": { "lat": 22.3305629, "lng": 114.1841471 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Kowloon Bay Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "No.1, Kai Lok Street, Kowloon Bay, Kowloon.",
+    "coordinates": { "lat": 22.3270076, "lng": 114.2097399 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Sai Tso Wan Recreation Ground",
+    "facilities": ["Soccer Pitch - Grass", "Baseball Pitch", "Batting Cage"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "90 Sin Fat Road, Lam Tin, Kowloon",
+    "coordinates": { "lat": 22.3043059, "lng": 114.2332611 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Sham Shui Po Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "3 Hing Wah Street, Cheung Sha Wan, Sham Shui Po, Kowloon",
+    "coordinates": { "lat": 22.3372958, "lng": 114.151771 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tai Hang Tung Recreation Ground",
+    "facilities": ["Soccer Pitch - Grass", "Min. Soccer Pitch - Grass"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "63 Boundary Street, Sham Shui Po",
+    "coordinates": { "lat": 22.3279276, "lng": 114.1710667 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Hammer Hill Road Sports Ground",
+    "facilities": ["Soccer Pitch - Grass", "Min. Soccer Pitch - Grass"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "158, Hammer Hill Road,  Wong Tai Win, Kowloon",
+    "coordinates": { "lat": 22.3385102, "lng": 114.2074587 },
+    "type": "Nat Turf - So cum Ru"
+  },
+  {
+    "name": "North District Sports Ground",
+    "facilities": ["Soccer Pitch - Grass", "Tennis Court (NT)"],
+    "area": "New Territories East - North",
+    "address": "26 Tin Ping Road, Sheung Shui, N.T.",
+    "coordinates": { "lat": 22.5063119, "lng": 114.1305155 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Kwu Tung Grass Soccer Pitch",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories East - North",
+    "address": "3 Ho Sheung Heung Road, Kwu Tung, Sheung Shui, N.T.",
+    "coordinates": { "lat": 22.5046373, "lng": 114.0997466 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Fanling Recreation Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories East - North",
+    "address": "55 San Wan Road, Fanling, N.T.",
+    "coordinates": { "lat": 22.4940173, "lng": 114.1375364 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Sai Kung Tang Shiu Kin Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories East - Sai Kung",
+    "address": "41 Fuk Man Road, Sai Kung",
+    "coordinates": { "lat": 22.3832589, "lng": 114.2729737 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tseung Kwan O Sports Ground",
+    "facilities": ["Soccer Pitch - Grass", "Min. Soccer Pitch - Grass", "Activity Room (Small)(NT)", "Activity Room (Large)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine"],
+    "area": "New Territories East - Sai Kung",
+    "address": "109 Po Hong Road, Tseung Kwan O, NT",
+    "coordinates": { "lat": 22.3117028, "lng": 114.2633119 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Hin Tin Playground",
+    "facilities": ["Soccer Pitch - Grass", "Tennis Court (NT)"],
+    "area": "New Territories East - Sha Tin",
+    "address": "9 Che Kung Miu Road, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.3648157, "lng": 114.1718651 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Ma On Shan Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories East - Sha Tin",
+    "address": "No. 1, Hang Hong Street, Ma On Shan, Sha Tin",
+    "coordinates": { "lat": 22.4207857, "lng": 114.228317 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Sha Tin Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories East - Sha Tin",
+    "address": "No. 18, Yuen Wo Road, Sha Tin",
+    "coordinates": { "lat": 22.3877652, "lng": 114.1967807 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tai Po Sports Ground",
+    "facilities": ["Soccer Pitch - Grass", "Activity Room (Small)(NT)", "Table Tennis Table (NT)", "Tennis Court (NT)", "Squash Court (NT)"],
+    "area": "New Territories East - Tai Po",
+    "address": "21 Tai Po Tau Road, Tai Po, N.T.",
+    "coordinates": { "lat": 22.455715, "lng": 114.1621722 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Wo Yi Hop Road Sports Ground",
+    "facilities": ["Soccer Pitch - Grass", "Golf Driving Bay", "Package (Bay & Golf Ball)"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "298 Wo Yi Hop Road, Kwai Chung, N.T.",
+    "coordinates": { "lat": 22.373777, "lng": 114.136946 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tsing Yi Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "Tsing King Road, Tsing Yi, N.T.",
+    "coordinates": { "lat": 22.3561583, "lng": 114.107475 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Kwai Chung Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "93 Hing Shing Road, Kwai Chung, N.T.",
+    "coordinates": { "lat": 22.358105, "lng": 114.125169 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tuen Mun Tang Shiu Kin Sports Ground",
+    "facilities": ["Soccer Pitch - Grass", "Tennis Court (NT)"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "Tsun Wen Road, Tuen Mun, N.T.",
+    "coordinates": { "lat": 22.404262, "lng": 113.974082 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Siu Lun Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "No. 16, Siu Lun Street, Tuen Mun",
+    "coordinates": { "lat": 22.3850451, "lng": 113.9784154 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tsuen Wan Riviera Park",
+    "facilities": ["Soccer Pitch - Grass", "Tennis Court (NT)"],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "No.2 Yi Hong Street, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3633228, "lng": 114.1126015 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Shing Mun Valley Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "Shing Mun Road, Tsuen Wan",
+    "coordinates": { "lat": 22.376429, "lng": 114.128145 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Tin Shui Wai Sports Ground",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories West - Yuen Long",
+    "address": "No. 2, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4547902, "lng": 114.0045247 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Yuen Long Stadium",
+    "facilities": ["Soccer Pitch - Grass"],
+    "area": "New Territories West - Yuen Long",
+    "address": "No. 6, Tai Yuk Road, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4427639, "lng": 114.0206527 },
+    "type": "Nat Turf - Ass"
+  },
+  {
+    "name": "Wai Lok Street Temporary Soccer Pitch",
+    "facilities": ["Min. Soccer Pitch - Grass"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "Junction of Wai Lok Street and Wai Yip Street, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3039852, "lng": 114.2261399 },
+    "type": "Nat Turf - Min"
+  },
+  {
+    "name": "Sai Kung Squash Courts",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Squash Court (NT)"],
+    "area": "New Territories East - Sai Kung",
+    "address": "Wan Man Road, Sai Kung, NT",
+    "coordinates": { "lat": 22.3832778, "lng": 114.2747429 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Siu Lek Yuen Road Playground",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Tennis Court (NT)", "Squash Court (NT)", "Bowling Green Rink (NT)"],
+    "area": "New Territories East - Sha Tin",
+    "address": "Siu Lek Yuen Road, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.3875452, "lng": 114.2054282 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Sha Tin Jockey Club Public Squash Courts",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Squash Court (NT)", "American Pool Table"],
+    "area": "New Territories East - Sha Tin",
+    "address": "12 Yuen Wo Road, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.384573, "lng": 114.1938774 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Tung Chung North Park",
+    "facilities": ["Activity Room (Small)(NT)"],
+    "area": "New Territories West - Islands",
+    "address": "29 Man Tung Road, Tung Chung",
+    "coordinates": { "lat": 22.2919669, "lng": 113.9507535 },
+    "type": "Activity Room (Small)"
+  },
+  {
+    "name": "Tuen Mun Swimming Pool Squash Court",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Squash Court (NT)"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "Hoi Wong Road, Tuen Mun, N.T.",
+    "coordinates": { "lat": 22.383617, "lng": 113.970148 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Yuen Long Sir Denys Roberts Squash Court",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "Squash Court (NT)", "American Pool Table"],
+    "area": "New Territories West - Yuen Long",
+    "address": "1 Ping Fai Path, Ping Wui Street, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.446919, "lng": 114.022509 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Tai Kiu Market Squash Courts",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "Squash Court (NT)"],
+    "area": "New Territories West - Yuen Long",
+    "address": "M/F, Yuen Long Government Offices, 2 Kiu Lok Square, Yuen Long",
+    "coordinates": { "lat": 22.4454253, "lng": 114.0271511 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Yuen Long Jockey Club Squash Court",
+    "facilities": ["Activity Room (Small)(NT)", "Table Tennis Table (NT)", "Squash Court (NT)"],
+    "area": "New Territories West - Yuen Long",
+    "address": "32 Kin Tak Street, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4408199, "lng": 114.0300781 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Luen Wo Hui Sports Centre",
+    "facilities": ["Activity Room (Large)(NT)", "Dance Room (Large)(NT)", "Table Tennis Table (NT)", "T.T. Table & Serving Machine", "Fitness Equipment (NT)"],
+    "area": "New Territories East - North",
+    "address": "3/F., 9 Wo Mun Street, Luen Wo Market Hui, Fanling, N.T.",
+    "coordinates": { "lat": 22.5000796, "lng": 114.144593 },
+    "type": "Activity Room (Large)"
+  },
+  {
+    "name": "Ho Man Tin Sports Centre",
+    "facilities": [
+      "Activity Room (Large)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Tennis Court (Urban)",
+      "Fitness Equipment (HK & Kowloon)",
+      "American Pool Table"
+    ],
+    "area": "Kowloon - Kowloon City",
+    "address": "1 Chung Yee Street, Ho Man Tin, Kowloon",
+    "coordinates": { "lat": 22.3118107, "lng": 114.1811141 },
+    "type": "Activity Room (Large)"
+  },
+  {
+    "name": "Aberdeen Tennis & Squash Centre",
+    "facilities": [
+      "Activity Room (Small)(A/C)(Urban)",
+      "Table Tennis Table (A/C)(Urban)",
+      "T.T. Table & Serving Machine",
+      "Tennis Court (Urban)",
+      "Fitness Equipment (HK & Kowloon)",
+      "Squash Court (A/C)(Urban)",
+      "American Pool Table"
+    ],
+    "area": "Hong Kong - Southern",
+    "address": "1 Aberdeen Praya Road, Aberdeen, HK",
+    "coordinates": { "lat": 57.1498891, "lng": -2.0937528 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Tung Chau Street Park",
+    "facilities": ["Activity Room (Small)(A/C)(Urban)", "Table Tennis Table (A/C)(Urban)", "T.T. Table & Serving Machine", "Tennis Court (Urban)", "Squash Court (A/C)(Urban)"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "Tung Chau Street, Sham Shui Po, Kowloon",
+    "coordinates": { "lat": 22.3256985, "lng": 114.1595551 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Hong Kong Squash Centre",
+    "facilities": ["Table Tennis Table (A/C)(Urban)", "T.T. Table & Serving Machine", "Squash - Exhibition Court", "Squash Court (A/C)(Urban)"],
+    "area": "Hong Kong - Central & Western",
+    "address": "23 Cotton Tree Drive, Queensway, Hong Kong",
+    "coordinates": { "lat": 22.2775137, "lng": 114.1600072 },
+    "type": "Squash Court (Crt 1)"
+  },
+  {
+    "name": "Cornwall Street Squash & Table Tennis Centre",
+    "facilities": ["Table Tennis Table (A/C)(Urban)", "T.T. Table & Serving Machine", "Squash Court (A/C)(Urban)"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "17, Cornwall Street,  Kowloon Tong",
+    "coordinates": { "lat": 22.339539404458918, "lng": 114.17270247583335 },
+    "type": "Squash Court"
+  },
+  {
+    "name": "Sai Kung Tennis Courts",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories East - Sai Kung",
+    "address": "Wan Man Road, Sai Kung, NT",
+    "coordinates": { "lat": 22.3832778, "lng": 114.2747429 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Yuen Wo Playground",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories East - Sha Tin",
+    "address": "No.16 Yuen Wo Road, Sha Tin, N.T.",
+    "coordinates": { "lat": 22.3854095, "lng": 114.1953814 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Wan Tau Kok Playground",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories East - Tai Po",
+    "address": "Wan Tau Kok Lane, Tai Po, N.T.",
+    "coordinates": { "lat": 22.445519, "lng": 114.169384 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Cheung Chau Park",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Islands",
+    "address": "Tai Shek Hau, Cheung Chau",
+    "coordinates": { "lat": 22.204431, "lng": 114.025055 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Kwai Shing Playground",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "Kwai Shing Circuit, Kwai Chung",
+    "coordinates": { "lat": 22.3618476, "lng": 114.1250555 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Shek Lei Street Tennis Courts",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "Shek Lei Street, Kwai Chung",
+    "coordinates": { "lat": 22.366173, "lng": 114.1387332 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Tsing Yi Park",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Kwai Tsing",
+    "address": "Tsing Luk Street, Tsing Yi,N.T",
+    "coordinates": { "lat": 22.3558983, "lng": 114.1056299 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Tsing Sin Playground",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "37B Area, Tsing Sin Street, Tuen Mun, N.T.",
+    "coordinates": { "lat": 22.3845731, "lng": 113.9803816 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Wu Shan Tennis Courts",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "Wu Shan Tennis Courts, Wu Shan Road, Tuen Mun",
+    "coordinates": { "lat": 22.3767889, "lng": 113.9678167 },
+    "type": "Tennis Courts"
+  },
+  {
+    "name": "Tsuen King Circuit Playground",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "Tsuen King Circuit, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3794379, "lng": 114.10659 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Sha Tsui Road Playground",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "171-199 Sha Tsui Road, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3719661, "lng": 114.1134746 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Shing Mun Valley Park",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "Shing Mun Road, Tsuen Wan, N.T.",
+    "coordinates": { "lat": 22.3745842, "lng": 114.1250152 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Tsuen Wan Park",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Tsuen Wan",
+    "address": "59 Wing Shun Street, Tsuen Wan.",
+    "coordinates": { "lat": 22.3672211, "lng": 114.1113571 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Sai Ching Street Tennis Courts",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Yuen Long",
+    "address": "6, Sai Ching Street, Yuen Long, N.T.",
+    "coordinates": { "lat": 22.4415776, "lng": 114.0271947 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Tin Shui Wai Park",
+    "facilities": ["Tennis Court (NT)"],
+    "area": "New Territories West - Yuen Long",
+    "address": "6 Tin Shui Road, Tin Shui Wai, N.T.",
+    "coordinates": { "lat": 22.4566091, "lng": 114.0024833 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Victoria Park",
+    "facilities": ["VP Centre Court", "Tennis Court (Urban)", "Bowling Green Rink (Urban)"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "Causeway Road, Causeway Bay, Hong Kong",
+    "coordinates": { "lat": 22.2823565, "lng": 114.1886969 },
+    "type": "Tennis-Centre Ct"
+  },
+  {
+    "name": "Causeway Bay Sports Ground",
+    "facilities": ["Tennis Practice Court", "Tennis Court (Urban)"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "Causeway Road, Causeway Bay, Hong Kong",
+    "coordinates": { "lat": 22.2823565, "lng": 114.1886969 },
+    "type": "Tennis - Practice"
+  },
+  {
+    "name": "Hong Kong Tennis Centre",
+    "facilities": ["Tennis Practice Court", "Tennis Court (Urban)"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "133 Wong Nai Chung Gap Road, Wan Chai, HK",
+    "coordinates": { "lat": 22.259838, "lng": 114.192494 },
+    "type": "Tennis - Practice"
+  },
+  {
+    "name": "Morse Park No. 4",
+    "facilities": ["Tennis Practice Court", "Tennis Court (Urban)"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "No. 30 Heng Lam Street, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3362966, "lng": 114.1906406 },
+    "type": "Tennis - Practice"
+  },
+  {
+    "name": "Chai Wan Park",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Hong Kong - Eastern",
+    "address": "Tsui Wan Street, Chai Wan, Hong Kong.",
+    "coordinates": { "lat": 22.2666664, "lng": 114.2384456 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Sai Wan Ho Playground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Hong Kong - Eastern",
+    "address": "Lei King Wan Road Hong Kong",
+    "coordinates": { "lat": 22.2863247, "lng": 114.2226145 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Bowen Road Tennis Court",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "2B, Bowen Drive, Wanchai, HK",
+    "coordinates": { "lat": 22.2745066, "lng": 114.1667997 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Junction Road Park",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kowloon City",
+    "address": "195 Junction Road, Kowloon City, Kowloon",
+    "coordinates": { "lat": 22.338947, "lng": 114.183988 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Ma Tau Wai Service Reservoir Playground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kowloon City",
+    "address": "2A, Sheung Wo Street, Kowloon City, Kowloon",
+    "coordinates": { "lat": 22.3184033, "lng": 114.1839536 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Tin Kwong Road Tennis Court",
+    "facilities": ["Tennis Court (Urban)", "Cricket Practice Net"],
+    "area": "Kowloon - Kowloon City",
+    "address": "15, Tin Kwong Road, Kowloon",
+    "coordinates": { "lat": 22.3220103, "lng": 114.1847772 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Hiu Ming Street Playground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "17, Hiu Ming Street, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.315768, "lng": 114.231355 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Hong Ning Road Park",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "Hong Ning Road/Wo Hong Path, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3172248, "lng": 114.2235027 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Jordan Valley Playground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "Choi Ha Road, Ngau Tau Kok, Kowloon",
+    "coordinates": { "lat": 22.3249773, "lng": 114.2181157 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Ping Shek Playground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "New Clear Water Bay Road, Kowloon",
+    "coordinates": { "lat": 22.3321998, "lng": 114.2122064 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Sin Fat Road Tennis Court",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Kwun Tong",
+    "address": "Sin Fat Road, Kwun Tong, Kowloon",
+    "coordinates": { "lat": 22.3056234, "lng": 114.2305147 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Lai Chi Kok Park",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Sham Shui Po",
+    "address": "1 Lai Wan Road, Mei Foo, Kln.",
+    "coordinates": { "lat": 22.3350115, "lng": 114.1373713 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Ma Chai Hang Recreation Ground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "30 Ma Chai Hang Road, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3440347, "lng": 114.1888343 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Shek Ku Lung Road Playground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "18 Lok Sin Road, Wong Tai Sin, Kowloon",
+    "coordinates": { "lat": 22.3310204, "lng": 114.1935793 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "King's Park Recreation Ground",
+    "facilities": ["Tennis Court (Urban)"],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "King's Park Rise, Yau Ma Tei, Kowloon",
+    "coordinates": { "lat": 22.3110915, "lng": 114.1737977 },
+    "type": "Tennis Court"
+  },
+  {
+    "name": "Tuen Mun Recreation & Sports Centre",
+    "facilities": ["Golf Driving Bay", "Golf Practice Green", "Package (Bay & Golf Ball)", "Sport Climbing Facilities (Large)", "Archery Range", "Rope Course"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "54 Lung Mun Road, Tuen Mun, New Territories",
+    "coordinates": { "lat": 22.382809, "lng": 113.963022 },
+    "type": "Block A Ground Floor"
+  },
+  {
+    "name": "Happy Valley Recreation Ground - Hockey Pitch",
+    "facilities": ["Hockey - Art Turf"],
+    "area": "Hong Kong - Wan Chai",
+    "address": "2 Sports Road, Happy Valley",
+    "coordinates": { "lat": 22.2716989, "lng": 114.1830768 },
+    "type": "Art Turf - Hockey"
+  },
+  {
+    "name": "King's Park Hockey Ground",
+    "facilities": ["Hockey - Art Turf"],
+    "area": "Kowloon - Yau Tsim Mong",
+    "address": "2-6 Wylie Road, Yau Ma Tei, Kowloon",
+    "coordinates": { "lat": 22.3069717, "lng": 114.1772151 },
+    "type": "Art Turf - Hockey"
+  },
+  {
+    "name": "Hang Hau Man Kuk Lane Park",
+    "facilities": ["Bowling Green Rink (NT)"],
+    "area": "New Territories East - Sai Kung",
+    "address": "6 Man Kuk Lane, Tseung Kwan O, N.T.",
+    "coordinates": { "lat": 22.3130169, "lng": 114.2654419 },
+    "type": "Bowling Green Rink"
+  },
+  {
+    "name": "Tai Po Waterfront Park",
+    "facilities": ["Bowling Green Rink (NT)"],
+    "area": "New Territories East - Tai Po",
+    "address": "Dai Fat Street, Tai Po",
+    "coordinates": { "lat": 22.4525575, "lng": 114.1845378 },
+    "type": "Bowling Green"
+  },
+  {
+    "name": "Wu Shan Bowling Green",
+    "facilities": ["Bowling Green Rink (NT)"],
+    "area": "New Territories West - Tuen Mun",
+    "address": "Wu Shan Bowling Green, Wu Shan Road, Tuen Mun",
+    "coordinates": { "lat": 22.3755788, "lng": 113.9685804 },
+    "type": "Bowling Green Rink"
+  },
+  {
+    "name": "St. Stephen's Beach Water Sports Centre",
+    "facilities": ["Sailing Dinghy", "Windsurfing", "Canoeing"],
+    "area": "Hong Kong - Southern",
+    "address": "Wong Ma Kok Path, Stanley, HK",
+    "coordinates": { "lat": 22.2116214, "lng": 114.2146234 },
+    "type": "420 (Double-handed)"
+  },
+  {
+    "name": "Stanley Main Beach Water Sports Centre",
+    "facilities": ["Sailing Dinghy", "Windsurfing", "Canoeing"],
+    "area": "Hong Kong - Southern",
+    "address": "Stanley Link Road, Stanley, HK",
+    "coordinates": { "lat": 22.2203106, "lng": 114.2141296 },
+    "type": "Laser XD (Single-handed)"
+  },
+  {
+    "name": "The Jockey Club Wong Shek Water Sports Centre",
+    "facilities": ["Sailing Dinghy", "Windsurfing", "Canoeing"],
+    "area": "New Territories East - Sai Kung",
+    "address": "Wong Shek Pier, Sai Kung, N.T.",
+    "coordinates": { "lat": 22.4339541, "lng": 114.3372583 },
+    "type": "420 (Double-handed)"
+  },
+  {
+    "name": "Chong Hing Water Sports Centre",
+    "facilities": ["Sailing Dinghy", "Windsurfing", "Canoeing", "Recreational Boats", "Pedal Driven Boat"],
+    "area": "New Territories East - Sai Kung",
+    "address": "West Sea Cofferdam, High Island Reservoir, Sai Kung",
+    "coordinates": { "lat": 22.3762882, "lng": 114.3361737 },
+    "type": "Topper (Single-handed)"
+  },
+  {
+    "name": "Tai Mei Tuk Water Sports Centre",
+    "facilities": ["Sailing Dinghy", "Windsurfing", "Canoeing"],
+    "area": "New Territories East - Tai Po",
+    "address": "Main Dam, Plover Cove, Tai Mei Tuk, Tai Po",
+    "coordinates": { "lat": 22.46822, "lng": 114.233503 },
+    "type": "420 (Double-handed)"
+  },
+  {
+    "name": "Ngau Chi Wan Park",
+    "facilities": ["Archery Range"],
+    "area": "Kowloon - Wong Tai Sin",
+    "address": "No. 71 Fung Shing Street, Ngau Chi Wan, Wong Tai Sin, Kowloon.",
+    "coordinates": { "lat": 22.3370288, "lng": 114.2139728 },
+    "type": "Archery Range"
+  }
+]

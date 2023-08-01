@@ -1,0 +1,24 @@
+.map-container {
+  width: 100vw;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+#controller {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 20px;
+  justify-content: space-between;
+}
+
+.map-frame {
+  border: 2px solid black;
+  flex: 1;
+}
+
+#map {
+  height: 100%;
+}

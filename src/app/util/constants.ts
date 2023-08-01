@@ -1,0 +1,1 @@
+export const HK_Center = {lat: 22.35, lng: 114.1694}
