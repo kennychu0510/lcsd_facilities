@@ -4,6 +4,27 @@ import { HK_Center } from '../util/constants';
 import data from '../../assets/data.json';
 import { Venue } from 'src/types';
 
+const ListOfDistrict = [
+  { name: 'islands', latitude: 22.261106, longitude: 113.946425 },
+  { name: 'kwai tsing', latitude: 22.354908, longitude: 114.126099 },
+  { name: 'north', latitude: 22.500908, longitude: 114.155826 },
+  { name: 'sai kung', latitude: 22.383689, longitude: 114.270787 },
+  { name: 'sha tin', latitude: 22.391067, longitude: 114.191981 },
+  { name: 'tai po', latitude: 22.450352, longitude: 114.168356 },
+  { name: 'tsuen wan', latitude: 22.371661, longitude: 114.11347 },
+  { name: 'tuen mun', latitude: 22.390829, longitude: 113.972065 },
+  { name: 'yuen long', latitude: 22.444501, longitude: 114.022213 },
+  { name: 'kowloon city', latitude: 22.33016, longitude: 114.189985 },
+  { name: 'kwun tong', latitude: 22.312937, longitude: 114.22561 },
+  { name: 'shamp shui po', latitude: 22.330095, longitude: 114.16094 },
+  { name: 'wong tai sin', latitude: 22.342962, longitude: 114.192987 },
+  { name: 'yau tsim mong', latitude: 22.30716, longitude: 114.167966 },
+  { name: 'central and western', latitude: 22.286394, longitude: 114.149139 },
+  { name: 'eastern', latitude: 22.273389, longitude: 114.236078 },
+  { name: 'southern', latitude: 22.247692, longitude: 114.158947 },
+  { name: 'wan chai', latitude: 22.277101, longitude: 114.175647 },
+];
+
 type SelectedOption = { id: number; name: string };
 const areasSet = new Set<string>();
 data.forEach((venue, idx) => {
@@ -44,6 +65,7 @@ export class MapComponent implements AfterViewInit {
   facilities = extractFacilities(data);
   private markersOnMap: L.Marker[] = [];
   currentLocation: { lat: number; lng: number } | null = null;
+  private defaultZoom = 11
 
   constructor() {
     this.venues = data;
@@ -56,7 +78,7 @@ export class MapComponent implements AfterViewInit {
   private initMap(): void {
     this.map = L.map('map', {
       center: HK_Center,
-      zoom: 11,
+      zoom: this.defaultZoom,
     });
 
     const tiles = L.tileLayer(
@@ -82,7 +104,7 @@ export class MapComponent implements AfterViewInit {
             lat: venue.coordinates.lat + 0.0005,
             lng: venue.coordinates.lng,
           },
-          18,
+          16,
           { animate: true, duration: 2 }
         );
       };
@@ -102,7 +124,7 @@ export class MapComponent implements AfterViewInit {
   }
 
   resetMap(): void {
-    this.map.panTo(HK_Center).setZoom(11);
+    this.map.panTo(HK_Center).setZoom(this.defaultZoom);
     this.selectedArea = null;
     this.venues = data;
     this.selectedFacility = null;
@@ -111,6 +133,14 @@ export class MapComponent implements AfterViewInit {
 
   onDistrictChange(event: SelectedOption): void {
     this.selectedArea = event;
+    this.selectedFacility = null;
+    const selectedDistrict = ListOfDistrict.find(item => event.name.toLowerCase().includes(item.name))
+    if (selectedDistrict) {
+      this.map.flyTo({
+        lat: selectedDistrict.latitude,
+        lng: selectedDistrict.longitude
+      }, 12)
+    }
     this.filterVenues();
   }
 
