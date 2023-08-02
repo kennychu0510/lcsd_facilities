@@ -10,13 +10,16 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatSelectModule} from '@angular/material/select';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatIconModule} from '@angular/material/icon';
+import { PopupComponent } from './popup/popup.component';
+import { MatBottomSheetModule, MatBottomSheetRef } from '@angular/material/bottom-sheet';
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    MapComponent
+    MapComponent,
+    PopupComponent
   ],
   imports: [
     BrowserModule,
@@ -26,9 +29,9 @@ import {MatIconModule} from '@angular/material/icon';
     MatButtonModule,
     MatSelectModule,
     MatFormFieldModule,
-    MatIconModule
+    MatIconModule,
+    MatBottomSheetModule
   ],
-  providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule { }

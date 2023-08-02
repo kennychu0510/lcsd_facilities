@@ -1,0 +1,9 @@
+<div id="container">
+  <h1>{{data.name}}</h1>
+  <h2>{{data.address}}</h2>
+  <ol>
+    <li *ngFor="let facility of data.facilities">
+      {{facility}}
+    </li>
+  </ol>
+</div>

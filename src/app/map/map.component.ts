@@ -1,8 +1,12 @@
 import { AfterViewInit, Component } from '@angular/core';
+import {
+  MatBottomSheet
+} from '@angular/material/bottom-sheet';
 import * as L from 'leaflet';
-import { HK_Center } from '../util/constants';
-import data from '../../assets/data.json';
 import { Venue } from 'src/types';
+import data from '../../assets/data.json';
+import { PopupComponent } from '../popup/popup.component';
+import { HK_Center } from '../util/constants';
 
 const ListOfDistrict = [
   { name: 'islands', latitude: 22.261106, longitude: 113.946425 },
@@ -67,8 +71,12 @@ export class MapComponent implements AfterViewInit {
   currentLocation: { lat: number; lng: number } | null = null;
   private defaultZoom = 11
 
-  constructor() {
+  constructor(private _popup: MatBottomSheet) {
     this.venues = data;
+  }
+
+  openPopup(venue: Venue): void {
+    this._popup.open(PopupComponent, { data: venue});
   }
 
   ngAfterViewInit(): void {
@@ -101,23 +109,24 @@ export class MapComponent implements AfterViewInit {
       const onClick = () => {
         this.map.flyTo(
           {
-            lat: venue.coordinates.lat + 0.0005,
+            lat: venue.coordinates.lat,
             lng: venue.coordinates.lng,
           },
           16,
           { animate: true, duration: 2 }
         );
+        this.openPopup(venue);
       };
       const marker = L.marker(venue.coordinates).on('click', onClick)
-        .bindPopup(/* HTML */ `
-        <h1>${venue.name}</h1>
-        <h2>${venue.address}</h2>
-        <div style="margin: 13px;">
-          <ol>
-            ${venue.facilities.map((item) => `<li>${item}</li>`).join('')}
-          </ol>
-        </div>
-      `);
+      //   .bindPopup(/* HTML */ `
+      //   <h1>${venue.name}</h1>
+      //   <h2>${venue.address}</h2>
+      //   <div style="margin: 13px;">
+      //     <ol>
+      //       ${venue.facilities.map((item) => `<li>${item}</li>`).join('')}
+      //     </ol>
+      //   </div>
+      // `);
       const addedMarker = marker.addTo(this.map);
       this.markersOnMap.push(addedMarker);
     });
