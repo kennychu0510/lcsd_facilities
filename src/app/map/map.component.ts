@@ -1,8 +1,9 @@
 import { AfterViewInit, Component } from '@angular/core';
 import { MatBottomSheet } from '@angular/material/bottom-sheet';
 import * as L from 'leaflet';
-import { Venue } from 'src/types';
+import { Campsite, Venue } from 'src/types';
 import data from '../../assets/data.json';
+import campsites from '../../assets/campsites.json'
 import { PopupComponent } from '../popup/popup.component';
 import { HK_Center } from '../util/constants';
 import { MatDialog } from '@angular/material/dialog';
@@ -62,11 +63,12 @@ function extractFacilities(input: typeof data, area?: string | null) {
 })
 export class MapComponent implements AfterViewInit {
   private map: L.Map;
-  private venues: Venue[];
+  private venues: (Venue | Campsite)[];
   selectedArea: SelectedOption | null = null;
   selectedFacility: SelectedOption | null = null;
   areas = areas;
   facilities = extractFacilities(data);
+  category = 'centers'
   private markersOnMap: L.Marker[] = [];
   currentLocation: { lat: number; lng: number } | null = null;
   private defaultZoom = 11;
@@ -208,5 +210,10 @@ export class MapComponent implements AfterViewInit {
 
   openDialog(data: string): void {
     this.dialog.open(DialogComponent, { data: data });
+  }
+
+  onCategoryChange(selected: string) {
+    this.category = selected
+    // this.venues = selected === 'centers' ? data : campsites
   }
 }

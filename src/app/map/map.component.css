@@ -6,10 +6,17 @@
 }
 
 #controller {
+  padding: 20px;
+}
+
+#primary {
+  margin-bottom: 20px;
+}
+
+#secondary {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 20px;
   justify-content: space-between;
   flex-wrap: wrap;
 
@@ -32,4 +39,5 @@
 .filter {
   min-width: 300px;
   max-width: 350px;
+  margin-bottom: -22px;
 }

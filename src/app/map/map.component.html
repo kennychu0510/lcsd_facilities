@@ -3,29 +3,35 @@
     <div id="map"></div>
   </div>
   <div id="controller">
-    <div>
-      <mat-form-field class="filter">
-        <mat-label>District</mat-label>
-        <mat-select
-          [(value)]="selectedArea"
-          (valueChange)="onDistrictChange($event)"
-        >
-          <mat-option *ngFor="let area of areas" [value]="area">
-            {{ area.name }}
-          </mat-option>
-        </mat-select>
-      </mat-form-field>
-      <mat-form-field class="filter">
-        <mat-label>Facilities</mat-label>
-        <mat-select
-          [(value)]="selectedFacility"
-          (valueChange)="onFacilityChange($event)"
-        >
-          <mat-option *ngFor="let facility of facilities" [value]="facility">
-            {{ facility.name }}
-          </mat-option>
-        </mat-select>
-      </mat-form-field>
+    <mat-chip-listbox id="primary" aria-label="Fish selection" (change)="onCategoryChange($event.value)">
+      <mat-chip-option value="centers" [selected]="category === 'centers'">Sport Centers</mat-chip-option>
+      <mat-chip-option value="campsites" [selected]="category === 'campsites'" color="accent">Campsites</mat-chip-option>
+    </mat-chip-listbox>
+    <div id="secondary">
+      <div>
+        <mat-form-field class="filter">
+          <mat-label>District</mat-label>
+          <mat-select
+            [(value)]="selectedArea"
+            (valueChange)="onDistrictChange($event)"
+          >
+            <mat-option *ngFor="let area of areas" [value]="area">
+              {{ area.name }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field class="filter">
+          <mat-label>Facilities</mat-label>
+          <mat-select
+            [(value)]="selectedFacility"
+            (valueChange)="onFacilityChange($event)"
+          >
+            <mat-option *ngFor="let facility of facilities" [value]="facility">
+              {{ facility.name }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
     </div>
     <div>
       <button mat-icon-button color="warn" (click)="resetMap()">
