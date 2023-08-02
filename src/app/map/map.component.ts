@@ -4,6 +4,31 @@ import { HK_Center } from '../util/constants';
 import data from '../../assets/data.json';
 import { Venue } from 'src/types';
 
+type SelectedOption = { id: number; name: string };
+const areasSet = new Set<string>();
+data.forEach((venue, idx) => {
+  areasSet.add(venue.area);
+});
+const areas = Array.from(areasSet).map((item, idx) => ({
+  id: idx,
+  name: item,
+}));
+
+function extractFacilities(input: typeof data, area?: string | null) {
+  const facilitySet = new Set<string>();
+  const filteredVenues = area
+    ? input.filter((item) => item.area === area)
+    : input;
+  filteredVenues.forEach((venue, idx) => {
+    venue.facilities.forEach((facility) =>
+      facilitySet.add(facility.replace(/\([^)]*\)/g, '').trim())
+    );
+  });
+  return Array.from(facilitySet).map((item, idx) => ({
+    id: idx,
+    name: item,
+  }));
+}
 
 @Component({
   selector: 'app-map',
@@ -13,17 +38,22 @@ import { Venue } from 'src/types';
 export class MapComponent implements AfterViewInit {
   private map: L.Map;
   private venues: Venue[];
-  areas: { id: number; name: string }[];
-  selectedArea: { id: number; name: string } | null;
+  selectedArea: SelectedOption | null = null;
+  selectedFacility: SelectedOption | null = null;
+  areas = areas;
+  facilities = extractFacilities(data);
+  private markersOnMap: L.Marker[] = [];
 
   constructor() {
-    this.venues = data;
-    const uniqueAreas = new Set<string>();
-    this.venues.forEach((venue, idx) => uniqueAreas.add(venue.area));
-    this.areas = Array.from(uniqueAreas).map((item, idx) => ({
-      id: idx,
-      name: item,
+    this.venues = data.map((item) => ({
+      ...item,
+      opacity: 1,
+      interactive: true,
     }));
+  }
+
+  ngAfterViewInit(): void {
+    this.initMap();
   }
 
   private initMap(): void {
@@ -43,33 +73,68 @@ export class MapComponent implements AfterViewInit {
     );
 
     tiles.addTo(this.map);
+    this.renderMarkers();
+  }
 
+  renderMarkers() {
+    this.clearMarkers();
     this.venues.forEach((venue) => {
       const onClick = () => {
         this.map.flyTo(venue.coordinates, 18, { animate: true, duration: 2 });
       };
       const marker = L.marker(venue.coordinates).on('click', onClick);
-      marker.addTo(this.map);
+      const addedMarker = marker.addTo(this.map);
+      this.markersOnMap.push(addedMarker);
     });
   }
 
-  resetZoom(): void {
+  resetMap(): void {
     this.map.panTo(HK_Center).setZoom(11);
     this.selectedArea = null;
     this.venues = data;
+    this.renderMarkers();
   }
 
-  setFilter(): void {
-    // if (this.selectedArea) {
-    //   this.venues = data.filter(item => item.area === this.selectedArea!.name)
-    // }
-    console.log(this.selectedArea)
+  onDistrictChange(event: SelectedOption): void {
+    this.selectedArea = event;
+    this.filterVenues();
   }
 
-  ngAfterViewInit(): void {
-    this.initMap();
+  onFacilityChange(event: SelectedOption): void {
+    this.selectedFacility = event;
+    this.filterVenues();
   }
 
-  private refreshMap() {
+  filterVenues() {
+    let venuesToDisplay = [...data];
+    if (this.selectedArea) {
+      venuesToDisplay = venuesToDisplay.filter(
+        (item) => item.area === this.selectedArea?.name
+      );
+    }
+    if (this.selectedFacility) {
+      venuesToDisplay = venuesToDisplay.filter((item) => {
+        for (let facility of item.facilities) {
+          if (facility.includes(this.selectedFacility!.name)) return true;
+        }
+        return false;
+      });
+    }
+
+    this.venues = venuesToDisplay;
+    this.renderMarkers();
+  }
+
+  clearMarkers() {
+    this.markersOnMap.forEach((marker) => marker.remove());
+  }
+
+  test() {
+    // this.clearMarkers();
+    this.getSports();
+  }
+
+  getSports() {
+    console.log(data);
   }
 }
