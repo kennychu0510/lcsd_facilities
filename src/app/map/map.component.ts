@@ -83,8 +83,8 @@ export class MapComponent implements AfterViewInit {
     }
   }
 
-  openPopup(venue: Venue): void {
-    this._popup.open(PopupComponent, { data: venue });
+  openPopup(item: Venue | Campsite): void {
+    this._popup.open(PopupComponent, { data: item });
   }
 
   ngAfterViewInit(): void {
