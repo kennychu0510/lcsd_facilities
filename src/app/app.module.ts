@@ -11,7 +11,9 @@ import {MatSelectModule} from '@angular/material/select';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatIconModule} from '@angular/material/icon';
 import { PopupComponent } from './popup/popup.component';
-import { MatBottomSheetModule, MatBottomSheetRef } from '@angular/material/bottom-sheet';
+import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
+import { MatDialogModule } from '@angular/material/dialog';
+import { DialogComponent } from './dialog/dialog.component'
 
 
 
@@ -19,7 +21,8 @@ import { MatBottomSheetModule, MatBottomSheetRef } from '@angular/material/botto
   declarations: [
     AppComponent,
     MapComponent,
-    PopupComponent
+    PopupComponent,
+    DialogComponent
   ],
   imports: [
     BrowserModule,
@@ -30,7 +33,8 @@ import { MatBottomSheetModule, MatBottomSheetRef } from '@angular/material/botto
     MatSelectModule,
     MatFormFieldModule,
     MatIconModule,
-    MatBottomSheetModule
+    MatBottomSheetModule,
+    MatDialogModule,
   ],
   bootstrap: [AppComponent],
 })

@@ -1,12 +1,12 @@
 import { AfterViewInit, Component } from '@angular/core';
-import {
-  MatBottomSheet
-} from '@angular/material/bottom-sheet';
+import { MatBottomSheet } from '@angular/material/bottom-sheet';
 import * as L from 'leaflet';
 import { Venue } from 'src/types';
 import data from '../../assets/data.json';
 import { PopupComponent } from '../popup/popup.component';
 import { HK_Center } from '../util/constants';
+import { MatDialog } from '@angular/material/dialog';
+import { DialogComponent } from '../dialog/dialog.component';
 
 const ListOfDistrict = [
   { name: 'islands', latitude: 22.261106, longitude: 113.946425 },
@@ -69,14 +69,14 @@ export class MapComponent implements AfterViewInit {
   facilities = extractFacilities(data);
   private markersOnMap: L.Marker[] = [];
   currentLocation: { lat: number; lng: number } | null = null;
-  private defaultZoom = 11
+  private defaultZoom = 11;
 
-  constructor(private _popup: MatBottomSheet) {
+  constructor(private _popup: MatBottomSheet, public dialog: MatDialog) {
     this.venues = data;
   }
 
   openPopup(venue: Venue): void {
-    this._popup.open(PopupComponent, { data: venue});
+    this._popup.open(PopupComponent, { data: venue });
   }
 
   ngAfterViewInit(): void {
@@ -117,16 +117,7 @@ export class MapComponent implements AfterViewInit {
         );
         this.openPopup(venue);
       };
-      const marker = L.marker(venue.coordinates).on('click', onClick)
-      //   .bindPopup(/* HTML */ `
-      //   <h1>${venue.name}</h1>
-      //   <h2>${venue.address}</h2>
-      //   <div style="margin: 13px;">
-      //     <ol>
-      //       ${venue.facilities.map((item) => `<li>${item}</li>`).join('')}
-      //     </ol>
-      //   </div>
-      // `);
+      const marker = L.marker(venue.coordinates).on('click', onClick);
       const addedMarker = marker.addTo(this.map);
       this.markersOnMap.push(addedMarker);
     });
@@ -143,12 +134,17 @@ export class MapComponent implements AfterViewInit {
   onDistrictChange(event: SelectedOption): void {
     this.selectedArea = event;
     this.selectedFacility = null;
-    const selectedDistrict = ListOfDistrict.find(item => event.name.toLowerCase().includes(item.name))
+    const selectedDistrict = ListOfDistrict.find((item) =>
+      event.name.toLowerCase().includes(item.name)
+    );
     if (selectedDistrict) {
-      this.map.flyTo({
-        lat: selectedDistrict.latitude,
-        lng: selectedDistrict.longitude
-      }, 12)
+      this.map.flyTo(
+        {
+          lat: selectedDistrict.latitude,
+          lng: selectedDistrict.longitude,
+        },
+        12
+      );
     }
     this.filterVenues();
   }
@@ -183,6 +179,28 @@ export class MapComponent implements AfterViewInit {
   }
 
   locateMe() {
-    this.map.locate({ setView: true, maxZoom: 15 });
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          this.map.flyTo(
+            {
+              lat: pos.coords.latitude,
+              lng: pos.coords.longitude,
+            },
+            15,
+            {
+              animate: true,
+            }
+          );
+        },
+        (error) => {
+          this.openDialog(error.message);
+        }
+      );
+    }
+  }
+
+  openDialog(data: string): void {
+    this.dialog.open(DialogComponent, { data: data });
   }
 }
