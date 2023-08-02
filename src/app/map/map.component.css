@@ -6,22 +6,22 @@
 }
 
 #controller {
-  height: 100px;
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 0 20px;
+  padding: 20px;
   justify-content: space-between;
+  flex-wrap: wrap;
 
   > div {
     align-items: center;
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
   }
 }
 
 .map-frame {
-  border: 2px solid black;
   flex: 1;
 }
 

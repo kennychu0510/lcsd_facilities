@@ -5,7 +5,7 @@
         <mat-label>District</mat-label>
         <mat-select (valueChange)="onDistrictChange($event)">
           <mat-option *ngFor="let area of areas" [value]="area">
-            {{area.name}}
+            {{ area.name }}
           </mat-option>
         </mat-select>
       </mat-form-field>
@@ -13,13 +13,18 @@
         <mat-label>Facilities</mat-label>
         <mat-select (valueChange)="onFacilityChange($event)">
           <mat-option *ngFor="let facility of facilities" [value]="facility">
-            {{facility.name}}
+            {{ facility.name }}
           </mat-option>
         </mat-select>
       </mat-form-field>
     </div>
     <div>
-      <button mat-raised-button color="warn" (click)="resetMap()">Reset</button>
+      <button mat-icon-button color="warn" (click)="resetMap()">
+        <mat-icon>refresh</mat-icon>
+      </button>
+      <button mat-icon-button color="warn" (click)="locateMe()">
+        <mat-icon>location_on</mat-icon>
+      </button>
       <button mat-raised-button color="warn" (click)="test()">Test</button>
     </div>
   </div>

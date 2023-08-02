@@ -43,13 +43,10 @@ export class MapComponent implements AfterViewInit {
   areas = areas;
   facilities = extractFacilities(data);
   private markersOnMap: L.Marker[] = [];
+  currentLocation: {lat: number, lng: number } | null = null
 
   constructor() {
-    this.venues = data.map((item) => ({
-      ...item,
-      opacity: 1,
-      interactive: true,
-    }));
+    this.venues = data
   }
 
   ngAfterViewInit(): void {
@@ -80,9 +77,21 @@ export class MapComponent implements AfterViewInit {
     this.clearMarkers();
     this.venues.forEach((venue) => {
       const onClick = () => {
-        this.map.flyTo(venue.coordinates, 18, { animate: true, duration: 2 });
+        this.map.flyTo({
+          lat: venue.coordinates.lat + 0.0005,
+          lng: venue.coordinates.lng
+        }, 18, { animate: true, duration: 2 });
       };
-      const marker = L.marker(venue.coordinates).on('click', onClick);
+      const marker = L.marker(venue.coordinates).on('click', onClick).bindPopup(/* HTML */`
+        <h1>${venue.name}</h1>
+        <h2>${venue.address}</h2>
+        <div style="margin: 13px;">
+          <ol>
+            ${venue.facilities.map(item => `<li>${item}</li>`).join('')}
+          </ol>
+        </div>
+
+      `);
       const addedMarker = marker.addTo(this.map);
       this.markersOnMap.push(addedMarker);
     });
@@ -129,12 +138,16 @@ export class MapComponent implements AfterViewInit {
     this.markersOnMap.forEach((marker) => marker.remove());
   }
 
-  test() {
-    // this.clearMarkers();
-    this.getSports();
+  locateMe() {
+    this.map.locate({setView: true, maxZoom: 15})
   }
 
-  getSports() {
-    console.log(data);
+  test() {
+    // const popup = L.popup()
+    // .setLatLng(HK_Center)
+    // .setContent('<p>Hello world!<br />This is a nice popup.</p>')
+    // .openOn(this.map);
   }
+
+
 }
