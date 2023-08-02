@@ -43,10 +43,10 @@ export class MapComponent implements AfterViewInit {
   areas = areas;
   facilities = extractFacilities(data);
   private markersOnMap: L.Marker[] = [];
-  currentLocation: {lat: number, lng: number } | null = null
+  currentLocation: { lat: number; lng: number } | null = null;
 
   constructor() {
-    this.venues = data
+    this.venues = data;
   }
 
   ngAfterViewInit(): void {
@@ -73,24 +73,28 @@ export class MapComponent implements AfterViewInit {
     this.renderMarkers();
   }
 
-  renderMarkers() {
+  private renderMarkers() {
     this.clearMarkers();
     this.venues.forEach((venue) => {
       const onClick = () => {
-        this.map.flyTo({
-          lat: venue.coordinates.lat + 0.0005,
-          lng: venue.coordinates.lng
-        }, 18, { animate: true, duration: 2 });
+        this.map.flyTo(
+          {
+            lat: venue.coordinates.lat + 0.0005,
+            lng: venue.coordinates.lng,
+          },
+          18,
+          { animate: true, duration: 2 }
+        );
       };
-      const marker = L.marker(venue.coordinates).on('click', onClick).bindPopup(/* HTML */`
+      const marker = L.marker(venue.coordinates).on('click', onClick)
+        .bindPopup(/* HTML */ `
         <h1>${venue.name}</h1>
         <h2>${venue.address}</h2>
         <div style="margin: 13px;">
           <ol>
-            ${venue.facilities.map(item => `<li>${item}</li>`).join('')}
+            ${venue.facilities.map((item) => `<li>${item}</li>`).join('')}
           </ol>
         </div>
-
       `);
       const addedMarker = marker.addTo(this.map);
       this.markersOnMap.push(addedMarker);
@@ -101,6 +105,7 @@ export class MapComponent implements AfterViewInit {
     this.map.panTo(HK_Center).setZoom(11);
     this.selectedArea = null;
     this.venues = data;
+    this.selectedFacility = null;
     this.renderMarkers();
   }
 
@@ -114,7 +119,7 @@ export class MapComponent implements AfterViewInit {
     this.filterVenues();
   }
 
-  filterVenues() {
+  private filterVenues() {
     let venuesToDisplay = [...data];
     if (this.selectedArea) {
       venuesToDisplay = venuesToDisplay.filter(
@@ -134,20 +139,11 @@ export class MapComponent implements AfterViewInit {
     this.renderMarkers();
   }
 
-  clearMarkers() {
+  private clearMarkers() {
     this.markersOnMap.forEach((marker) => marker.remove());
   }
 
   locateMe() {
-    this.map.locate({setView: true, maxZoom: 15})
+    this.map.locate({ setView: true, maxZoom: 15 });
   }
-
-  test() {
-    // const popup = L.popup()
-    // .setLatLng(HK_Center)
-    // .setContent('<p>Hello world!<br />This is a nice popup.</p>')
-    // .openOn(this.map);
-  }
-
-
 }
