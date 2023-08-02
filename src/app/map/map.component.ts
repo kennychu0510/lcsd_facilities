@@ -75,6 +75,12 @@ export class MapComponent implements AfterViewInit {
     this.venues = data;
   }
 
+  ngOnInit() {
+    if (window.innerWidth < 400) {
+      this.defaultZoom = 10
+    }
+  }
+
   openPopup(venue: Venue): void {
     this._popup.open(PopupComponent, { data: venue });
   }
