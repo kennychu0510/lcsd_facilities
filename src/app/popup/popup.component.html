@@ -1,9 +1,17 @@
 <div id="container">
   <h1>{{data.name}}</h1>
   <h2>{{data.address}}</h2>
-  <ol>
-    <li *ngFor="let facility of data.facilities">
+  <ol *ngIf="type === 'center'">
+    <li *ngFor="let facility of centers.facilities">
       {{facility}}
     </li>
   </ol>
+  <div *ngIf="type === 'campsite'">
+    <p><b>Facilities:</b> {{campsites.facilities}}</p>
+    <p><b>Water Source:</b> {{campsites.waterSource}}</p>
+    <p><b>Hygienic Facilities:</b> {{campsites.hygienicFacilities}}</p>
+    <p><b>Remarks:</b> {{campsites.remarks}}</p>
+    <p class="link-container"><a href={{campsites.link}}><mat-icon>link</mat-icon></a></p>
+
+  </div>
 </div>

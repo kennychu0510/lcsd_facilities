@@ -1,8 +1,9 @@
 import { AfterViewInit, Component } from '@angular/core';
 import { MatBottomSheet } from '@angular/material/bottom-sheet';
 import * as L from 'leaflet';
-import { Venue } from 'src/types';
+import { Campsite, Venue } from 'src/types';
 import data from '../../assets/data.json';
+import campsites from '../../assets/campsites.json';
 import { PopupComponent } from '../popup/popup.component';
 import { HK_Center } from '../util/constants';
 import { MatDialog } from '@angular/material/dialog';
@@ -39,6 +40,16 @@ const areas = Array.from(areasSet).map((item, idx) => ({
   name: item,
 }));
 
+const venueIcon = L.icon({
+  iconUrl: '../../assets/lcsd_icon.png',
+  iconSize: [24, 24],
+});
+
+const campsiteIcon = L.icon({
+  iconUrl: '../../assets/campsite.png',
+  iconSize: [24, 24],
+});
+
 function extractFacilities(input: typeof data, area?: string | null) {
   const facilitySet = new Set<string>();
   const filteredVenues = area
@@ -62,27 +73,29 @@ function extractFacilities(input: typeof data, area?: string | null) {
 })
 export class MapComponent implements AfterViewInit {
   private map: L.Map;
-  private venues: Venue[];
+  private markers: (Venue | Campsite)[];
   selectedArea: SelectedOption | null = null;
   selectedFacility: SelectedOption | null = null;
   areas = areas;
   facilities = extractFacilities(data);
-  private markersOnMap: L.Marker[] = [];
+  category = 'centers';
+  private markersRef: L.Marker[] = [];
   currentLocation: { lat: number; lng: number } | null = null;
   private defaultZoom = 11;
+  lcsdIcon = venueIcon;
 
   constructor(private _popup: MatBottomSheet, public dialog: MatDialog) {
-    this.venues = data;
+    this.markers = data;
   }
 
   ngOnInit() {
     if (window.innerWidth < 400) {
-      this.defaultZoom = 10
+      this.defaultZoom = 10;
     }
   }
 
-  openPopup(venue: Venue): void {
-    this._popup.open(PopupComponent, { data: venue });
+  openPopup(item: Venue | Campsite): void {
+    this._popup.open(PopupComponent, { data: item });
   }
 
   ngAfterViewInit(): void {
@@ -111,7 +124,7 @@ export class MapComponent implements AfterViewInit {
 
   private renderMarkers() {
     this.clearMarkers();
-    this.venues.forEach((venue) => {
+    this.markers.forEach((venue) => {
       const onClick = () => {
         this.map.flyTo(
           {
@@ -123,16 +136,18 @@ export class MapComponent implements AfterViewInit {
         );
         this.openPopup(venue);
       };
-      const marker = L.marker(venue.coordinates).on('click', onClick);
+      const marker = L.marker(venue.coordinates, {
+        icon: this.category === 'centers' ? venueIcon : campsiteIcon,
+      }).on('click', onClick);
       const addedMarker = marker.addTo(this.map);
-      this.markersOnMap.push(addedMarker);
+      this.markersRef.push(addedMarker);
     });
   }
 
   resetMap(): void {
     this.map.panTo(HK_Center).setZoom(this.defaultZoom);
     this.selectedArea = null;
-    this.venues = data;
+    this.markers = data;
     this.selectedFacility = null;
     this.renderMarkers();
   }
@@ -176,12 +191,12 @@ export class MapComponent implements AfterViewInit {
       });
     }
 
-    this.venues = venuesToDisplay;
+    this.markers = venuesToDisplay;
     this.renderMarkers();
   }
 
   private clearMarkers() {
-    this.markersOnMap.forEach((marker) => marker.remove());
+    this.markersRef.forEach((marker) => marker.remove());
   }
 
   locateMe() {
@@ -208,5 +223,15 @@ export class MapComponent implements AfterViewInit {
 
   openDialog(data: string): void {
     this.dialog.open(DialogComponent, { data: data });
+  }
+
+  onCategoryChange(selected: string) {
+    this.category = selected;
+    if (selected) {
+      this.markers = selected === 'centers' ? data : campsites;
+    } else {
+      this.markers = [];
+    }
+    this.renderMarkers();
   }
 }

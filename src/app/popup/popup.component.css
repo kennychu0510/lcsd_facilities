@@ -11,3 +11,11 @@ ol {
 h1 {
   text-align: center;
 }
+
+.link-container {
+  text-align: right;
+
+  > a {
+    color: grey;
+  }
+}
