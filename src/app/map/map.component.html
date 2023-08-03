@@ -3,11 +3,29 @@
     <div id="map"></div>
   </div>
   <div id="controller">
-    <mat-chip-listbox id="primary" aria-label="Fish selection" (change)="onCategoryChange($event.value)">
-      <mat-chip-option value="centers" [selected]="category === 'centers'">Sport Centers</mat-chip-option>
-      <mat-chip-option value="campsites" [selected]="category === 'campsites'" color="accent">Campsites</mat-chip-option>
+    <mat-chip-listbox
+      id="primary"
+      aria-label="Fish selection"
+      (change)="onCategoryChange($event.value)"
+    >
+      <mat-chip-option value="centers" [selected]="category === 'centers'">
+        <div class="mat-chip-content">
+          <span> LCSD venues</span>
+          <img src="assets/lcsd_icon.png" alt="lcsd_icon" class="chip_icon" />
+        </div>
+      </mat-chip-option>
+      <mat-chip-option
+        value="campsites"
+        [selected]="category === 'campsites'"
+        color="accent"
+      >
+        <div class="mat-chip-content">
+          <span> Campsites</span>
+          <img src="assets/campsite.png" alt="campsite" class="chip_icon" />
+        </div>
+      </mat-chip-option>
     </mat-chip-listbox>
-    <div id="secondary">
+    <div *ngIf="category === 'centers'" id="secondary">
       <div>
         <mat-form-field class="filter">
           <mat-label>District</mat-label>

@@ -8,7 +8,7 @@
     "hygienicFacilities": "Flushing toilets with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4348318", "lng": "114.3339011" }
+    "coordinates": { "lat": 22.4348318, "lng": 114.3339011 }
   },
   {
     "name": "Lead Mine Pass Campsite",
@@ -19,7 +19,7 @@
     "hygienicFacilities": "Flushing toilets with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4112721", "lng": "114.1552435" }
+    "coordinates": { "lat": 22.4112721, "lng": 114.1552435 }
   },
   {
     "name": "Chung Pui Campsite",
@@ -30,7 +30,7 @@
     "hygienicFacilities": "Flushing toilets with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.487418", "lng": "114.2403955" }
+    "coordinates": { "lat": 22.487418, "lng": 114.2403955 }
   },
   {
     "name": "Man Cheung Po Campsite",
@@ -41,7 +41,7 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2299847", "lng": "113.8640234" }
+    "coordinates": { "lat": 22.2299847, "lng": 113.8640234 }
   },
   {
     "name": "Pak Tam Au Campsite",
@@ -52,7 +52,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4231978", "lng": "114.3336159" }
+    "coordinates": { "lat": 22.4231978, "lng": 114.3336159 }
   },
   {
     "name": "Tin Fu Tsai Campsite",
@@ -63,7 +63,7 @@
     "hygienicFacilities": "Mobile toilets",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3904087", "lng": "114.0634719" }
+    "coordinates": { "lat": 22.3904087, "lng": 114.0634719 }
   },
   {
     "name": "Long Ke Wan Campsite",
@@ -74,7 +74,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3741619", "lng": "114.3731635" }
+    "coordinates": { "lat": 22.3741619, "lng": 114.3731635 }
   },
   {
     "name": "Nga Ying Kok Campsite",
@@ -85,7 +85,7 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2382189", "lng": "113.8499983" }
+    "coordinates": { "lat": 22.2382189, "lng": 113.8499983 }
   },
   {
     "name": "Pak Lap Campsite",
@@ -96,7 +96,7 @@
     "hygienicFacilities": "Portable toilet",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3587758", "lng": "114.3599801" }
+    "coordinates": { "lat": 22.3587758, "lng": 114.3599801 }
   },
   {
     "name": "Wan Tsai West Campsite",
@@ -107,7 +107,7 @@
     "hygienicFacilities": "Large-scale bathing and toilet facilities (similar setup for handicapped users)",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4651142", "lng": "114.33553" }
+    "coordinates": { "lat": 22.4651142, "lng": 114.33553 }
   },
   {
     "name": "Shek Pik Campsite",
@@ -118,7 +118,7 @@
     "hygienicFacilities": "Flushing toilets (about 100m - near the entrance of Wang Pui Road)",
     "waterSource": "Flushing toilets (about 100m - near the entrance of Wang Pui Road)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2289154", "lng": "113.8711308" }
+    "coordinates": { "lat": 22.2289154, "lng": 113.8711308 }
   },
   {
     "name": "Ham Tin Wan Campsite",
@@ -129,7 +129,7 @@
     "hygienicFacilities": "Flushing Toilets (about 200m from the campsite)",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3587549", "lng": "114.2823418" }
+    "coordinates": { "lat": 22.3587549, "lng": 114.2823418 }
   },
   {
     "name": "Kong Ha Au Campsite",
@@ -140,7 +140,7 @@
     "hygienicFacilities": "Flushing toilets (about 50m)",
     "waterSource": "Flushing toilets (about 50m)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.5145618", "lng": "114.229219" }
+    "coordinates": { "lat": 22.5145618, "lng": 114.229219 }
   },
   {
     "name": "Po Kwu Wan Campsite",
@@ -151,7 +151,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4585758", "lng": "114.0912792" }
+    "coordinates": { "lat": 22.4585758, "lng": 114.0912792 }
   },
   {
     "name": "Tai Mong Tsai Campsite",
@@ -162,7 +162,7 @@
     "hygienicFacilities": "Flushing toilets with sinks (170 metres away from the campsite)",
     "waterSource": "Tap (toilet)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3822789", "lng": "114.3243638" }
+    "coordinates": { "lat": 22.3822789, "lng": 114.3243638 }
   },
   {
     "name": "Ngong Ping Campsite (Ma On Shan) ",
@@ -173,7 +173,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3923051", "lng": "114.248435" }
+    "coordinates": { "lat": 22.3923051, "lng": 114.248435 }
   },
   {
     "name": "Hau Tong Kai Campsite",
@@ -184,7 +184,7 @@
     "hygienicFacilities": "Flushing toilets with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4415116", "lng": "114.3245754" }
+    "coordinates": { "lat": 22.4415116, "lng": 114.3245754 }
   },
   {
     "name": "Sai Wan Campsite",
@@ -195,7 +195,7 @@
     "hygienicFacilities": "Flushing toilets and sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2285829", "lng": "113.5517641" }
+    "coordinates": { "lat": 22.2285829, "lng": 113.5517641 }
   },
   {
     "name": "Ho Pui Campsite",
@@ -206,7 +206,7 @@
     "hygienicFacilities": "Mobile toilets",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.410399", "lng": "114.0695905" }
+    "coordinates": { "lat": 22.410399, "lng": 114.0695905 }
   },
   {
     "name": "Rotary Club Campsite",
@@ -217,7 +217,7 @@
     "hygienicFacilities": "Flushing toilets and sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.5145565", "lng": "114.1905941" }
+    "coordinates": { "lat": 22.5145565, "lng": 114.1905941 }
   },
   {
     "name": "Wan Tsai South Campsite",
@@ -228,7 +228,7 @@
     "hygienicFacilities": "Large-scale bathing and toilet facilities (similar setup for handicapped users)",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces",
-    "coordinates": { "lat": "22.4616576", "lng": "114.339929" }
+    "coordinates": { "lat": 22.4616576, "lng": 114.339929 }
   },
   {
     "name": "Tung Lung Chau Campsite",
@@ -239,7 +239,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.255741", "lng": "113.9907384" }
+    "coordinates": { "lat": 22.255741, "lng": 113.9907384 }
   },
   {
     "name": "Ngong Ping Campsite (Lantau)",
@@ -250,7 +250,7 @@
     "hygienicFacilities": "Flushing toilets (about 100m)",
     "waterSource": "Flushing toilets (about 100m)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.254975", "lng": "113.9113691" }
+    "coordinates": { "lat": 22.254975, "lng": 113.9113691 }
   },
   {
     "name": "Shap Long Campsite",
@@ -261,7 +261,7 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3235568", "lng": "113.9176641" }
+    "coordinates": { "lat": 22.3235568, "lng": 113.9176641 }
   },
   {
     "name": "Lo Kei Wan Campsite",
@@ -272,7 +272,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2371052", "lng": "113.9857309" }
+    "coordinates": { "lat": 22.2371052, "lng": 113.9857309 }
   },
   {
     "name": "Yee Ting Campsite",
@@ -283,7 +283,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4066051", "lng": "114.3228457" }
+    "coordinates": { "lat": 22.4066051, "lng": 114.3228457 }
   },
   {
     "name": "Tsin Yue Wan Campsite",
@@ -294,7 +294,7 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2090799", "lng": "113.8417409" }
+    "coordinates": { "lat": 22.2090799, "lng": 113.8417409 }
   },
   {
     "name": "Hok Tau Campsite",
@@ -305,7 +305,7 @@
     "hygienicFacilities": "Flushing toilet with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4986744", "lng": "114.1755186" }
+    "coordinates": { "lat": 22.4986744, "lng": 114.1755186 }
   },
   {
     "name": "Tai Long Wan Campsite",
@@ -316,7 +316,7 @@
     "hygienicFacilities": "",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2140922", "lng": "113.5710061" }
+    "coordinates": { "lat": 22.2140922, "lng": 113.5710061 }
   },
   {
     "name": "Lau Shui Heung Campsite",
@@ -327,7 +327,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4986534", "lng": "114.0956916" }
+    "coordinates": { "lat": 22.4986534, "lng": 114.0956916 }
   },
   {
     "name": "Nam Shan Campsite",
@@ -338,7 +338,7 @@
     "hygienicFacilities": "Flushing toilets with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3979655", "lng": "114.2035377" }
+    "coordinates": { "lat": 22.3979655, "lng": 114.2035377 }
   },
   {
     "name": "Yuen Ng Fan (Nam Fung Wan) Campsite",
@@ -349,7 +349,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4982972", "lng": "113.8484314" }
+    "coordinates": { "lat": 22.4982972, "lng": 113.8484314 }
   },
   {
     "name": "Cheung Sheung Campsite",
@@ -360,7 +360,7 @@
     "hygienicFacilities": "Outhouse",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4287552", "lng": "114.3070693" }
+    "coordinates": { "lat": 22.4287552, "lng": 114.3070693 }
   },
   {
     "name": "Tung Ping Chau Campsite",
@@ -371,7 +371,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.5406897", "lng": "114.4204944" }
+    "coordinates": { "lat": 22.5406897, "lng": 114.4204944 }
   },
   {
     "name": "Kau Ling Chung Campsite",
@@ -382,7 +382,7 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4643408", "lng": "114.2579025" }
+    "coordinates": { "lat": 22.4643408, "lng": 114.2579025 }
   },
   {
     "name": "Twisk Campsite",
@@ -393,7 +393,7 @@
     "hygienicFacilities": "Mobile toilets",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4069958", "lng": "114.1003896" }
+    "coordinates": { "lat": 22.4069958, "lng": 114.1003896 }
   },
   {
     "name": "Tai Tan Campsite",
@@ -404,7 +404,7 @@
     "hygienicFacilities": "Flushing toilets with sinks",
     "waterSource": "Tap",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4373476", "lng": "114.3285598" }
+    "coordinates": { "lat": 22.4373476, "lng": 114.3285598 }
   },
   {
     "name": "Sam A Chung Campsite",
@@ -415,7 +415,7 @@
     "hygienicFacilities": "Dry toilet pits",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.5084647", "lng": "114.2690105" }
+    "coordinates": { "lat": 22.5084647, "lng": 114.2690105 }
   },
   {
     "name": "Pak Fu Tin Campsite",
@@ -426,7 +426,7 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.2521025", "lng": "113.9911423" }
+    "coordinates": { "lat": 22.2521025, "lng": 113.9911423 }
   },
   {
     "name": "Shui Long Wo Campsite",
@@ -437,7 +437,7 @@
     "hygienicFacilities": "Dry toilet pits (& mobile toilet)",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.4026316", "lng": "114.2728151" }
+    "coordinates": { "lat": 22.4026316, "lng": 114.2728151 }
   },
   {
     "name": "Shek Lam Chau Campsite",
@@ -448,6 +448,6 @@
     "hygienicFacilities": "Dry toilet pit",
     "waterSource": "Stream water (seasonal supply)",
     "remarks": "The campsites are categorized into 3 size classes with reference to the number of potential tent space which is estimated based on the approximate size of a 4-person tent and the required cooking space and access pathway for campers. This is for reference only. Campsite category: Small / Medium / Large Small: for category with less than 20 tent spaces. Medium: for category with 20 – 50 tent spaces. Large: for category with more than 50 tent spaces.",
-    "coordinates": { "lat": "22.3279954", "lng": "113.9658692" }
+    "coordinates": { "lat": 22.3279954, "lng": 113.9658692 }
   }
 ]
