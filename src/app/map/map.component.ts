@@ -83,6 +83,7 @@ export class MapComponent implements AfterViewInit {
   currentLocation: { lat: number; lng: number } | null = null;
   private defaultZoom = 11;
   lcsdIcon = venueIcon;
+  private newCampsiteInfo = campsites;
 
   constructor(private _popup: MatBottomSheet, public dialog: MatDialog) {
     this.markers = data;
@@ -138,7 +139,29 @@ export class MapComponent implements AfterViewInit {
       };
       const marker = L.marker(venue.coordinates, {
         icon: this.category === 'centers' ? venueIcon : campsiteIcon,
+        draggable: true,
       }).on('click', onClick);
+
+      /* For updating coordinates */
+      // marker.on('dragend', (e) => {
+      //   const newVenue = {
+      //     ...venue,
+      //     coordinates: {
+      //       lat: e.target.getLatLng().lat,
+      //       lng: e.target.getLatLng().lng,
+      //     },
+      //   };
+      //   console.log('REVISED', newVenue);
+
+      //   //@ts-ignore
+      //   this.newCampsiteInfo = this.newCampsiteInfo.map((item) => {
+      //     if (item.name === newVenue.name) {
+      //       return newVenue;
+      //     }
+      //     return item;
+      //   });
+      // });
+
       const addedMarker = marker.addTo(this.map);
       this.markersRef.push(addedMarker);
     });
@@ -234,4 +257,8 @@ export class MapComponent implements AfterViewInit {
     }
     this.renderMarkers();
   }
+
+  // getNewCampsiteInfo() {
+  //   console.log(this.newCampsiteInfo);
+  // }
 }
