@@ -139,7 +139,7 @@ export class MapComponent implements AfterViewInit {
       };
       const marker = L.marker(venue.coordinates, {
         icon: this.category === 'centers' ? venueIcon : campsiteIcon,
-        draggable: true,
+        draggable: false,
       }).on('click', onClick);
 
       /* For updating coordinates */
